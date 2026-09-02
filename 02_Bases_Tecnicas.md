@@ -1,6 +1,6 @@
 # BASES TÉCNICAS - NORMALIZACIÓN DÉFICIT DE AIRE MEDICINAL EN CENTRAL EDIFICIO B
 
-**Versión:** Original (19.08.2026)
+**Versión:** EAM-REV006 (Revisión Desglosada)
 
 ---
 
@@ -8,272 +8,329 @@ BASES TÉCNICAS DE PROYECTO
 
 “NORMALIZACIÓN DÉFICIT DE AIRE MEDICINAL EN CENTRAL DE EDIFICIO B, HOSPITAL DR. GUSTAVO FRICKE”
 
-BASES TECNICAS5
+0.BASES TECNICAS5
 
-ALCANCE5
+0.1.ALCANCE5
 
-GENERALIDADES5
+0.2.GENERALIDADES5
 
-Materiales y equipos:7
+0.2.1.Materiales y equipos:8
 
-NORMA DE DISCIPLINA Y ORDEN DENTRO DEL HOSPITAL DR. GUSTAVO FRICKE.8
+0.2.2.Equivalencias Técnicas8
 
-Mitigaciones:8
+0.3.NORMA DE DISCIPLINA Y ORDEN DENTRO DEL HOSPITAL DR. GUSTAVO FRICKE.9
 
-Instalación eléctrica8
+0.3.1.Mitigaciones:9
 
-Protección de áreas próximas8
+0.3.2.Control niveles de ruido y vibraciones9
 
-Elementos de seguridad8
+0.3.3.Instalación eléctrica9
 
-Credenciales de identificación a la vista9
+0.3.4.Protección de áreas próximas9
 
-Orden y aseo9
+0.3.5.Elementos de seguridad10
 
-Retiro de escombros y aseo general de obra.9
+0.3.6.Credenciales de identificación a la vista10
 
-Señalización de trabajos9
+0.3.7.Orden y aseo10
 
-RESPONSABILIDADES9
+0.3.8.Retiro de escombros y aseo general de obra.10
 
-DE LAS OBLIGACIONES GENERALES Y DEL SUPERVISOR A CARGO DE LOS TRABAJOS9
+0.3.9.Señalización de trabajos10
 
-DE LAS OBLIGACIONES DE COORDINACIÓN9
+0.4.RESPONSABILIDADES10
 
-REFERENCIAS NORMATIVAS10
+0.5.DE LAS OBLIGACIONES GENERALES Y DEL SUPERVISOR A CARGO DE LOS TRABAJOS10
 
-Normativa Nacional10
+0.6.DE LAS OBLIGACIONES DE COORDINACIÓN11
 
-Normativa Internacional10
+0.7.REFERENCIAS NORMATIVAS11
 
-Otras consideraciones normativas11
+0.7.1.Normativa Nacional11
 
-ESPECIFICACIONES TÉCNICAS PARTICULARES11
+0.7.2.Normativa Internacional12
 
+0.7.3.Otras consideraciones normativas12
 
-## 1. OBRAS PREVIAS12
+ESPECIFICACIONES TÉCNICAS PARTICULARES12
 
 
-## 1.1 Instalación de Faenas12
+## 1. OBRAS PREVIAS13
 
 
-## 1.2 Mitigaciones13
+## 1.1 Instalación y retiro de  faena13
 
 
-## 1.3 Equipo de respaldo temporal de aire medicinal (arriendo, traslado, conexión y retiro).14
+## 1.1.1Traslado e instalación de Contenedor13
 
 
-## 2. RETIRO, SUMINISTRO E INSTALACIÓN DE CENTRAL DE AIRE COMPRIMIDO MEDICINAL14
+## 1.1.2Retiro y Traslado de Contenedor13
 
 
-## 2.1 Desmontaje de equipo compresor de aire actual14
+## 1.2Instalación y Retiro de Mitigaciones14
 
 
-## 2.2 Embalaje y traslado de equipos desmontados a acopio en subterráneo.17
+## 1.3 Equipo de Aire Medicinal Temporal para Respaldo de red existente15
 
 
-## 2.3 Suministro y montaje de nuevo equipo generador de aire medicinal Hexaplex 15HP c/u17
+## 1.3.1Suministro e Instalación red de aire entre equipo de aire medicinal temporal y red de aire existente15
 
 
-## 2.4 Montaje e instalación de nuevo equipo compresor de aire19
+## 1.3.2Suministro e Instalación de alimentación eléctrica para equipo de aire medicinal temporal16
 
 
-## 2.4.1 – Demoliciones.20
+## 1.3.3Arriendo Equipo de Aire Medicinal Temporal (Arriendo – Traslado – Conexionado – Retiro)16
 
 
-## 2.4.2 – Retiro de escombros20
+## 2. RETIRO, SUMINISTRO E INSTALACIÓN DE EQUIPO DE AIRE MEDICINAL16
 
 
-## 2.4.3 – Hormigón adecuación banqueta de equipo .20
+## 2.1 Desmontaje de equipo de aire medicinal existente16
 
 
-## 2.4.4 – Desarme y reposición de cielo acústico.20
+## 2.2 Embalaje y traslado de equipos de aire medicinal desmontados a acopios en subterráneo16
 
 
-## 2.4.5 – Conexión de nuevo equipo compresor de aire.20
+## 2.3 Acondicionamiento de sala para nuevo equipo16
 
 
-## 3. INSTALACIÓN ELÉCTRICA22
+## 2.3.1Demolición de base de hormigón de equipo existente16
 
 
-## 3.1 Suministro e instalación de alimentador, regularización de tablero e instalación de breaker24
+## 2.3.2Retiro de escombros16
 
 
-## 3.1.1 Normalización de tablero eléctrico TDF 2D/Z/B424
+## 2.3.3Adecuación y Hormigonado de nueva base para equipo16
 
 
-## 3.1.2 Suministro, Canalización y Conexión un nuevo alimentador de 5 conductores monopolares de 95mm² (3F+N+T).25
+## 2.3.4Desarme de cielo acústico16
 
 
-## 3.1.3 Suministro y conexión de un nuevo desconectador regulable de 175 A a 250 A en TGauxN°4325
+## 2.3.5Reinstalación de cielo acústico16
 
+3 SUMINISTRO E INSTALACIÓN DE EQUIPO DE AIRE MEDICINAL16
 
-## 3.2 Levantamientos, memorias de cálculos, ingenierías de detalles y planimetrías as-built.26
 
+## 3.1 Suministro y montaje de nuevo equipo de aire medicinal: Pentaplex 15HP c/u, tipo scroll sin aceite, 201,6 CFM (mín), estanque acumulador 240 galones, 400V, 50Hz, trifásico, 2 secadores de aire desecantes, tablero eléctrico automático. Equipo seleccionado de acuerdo con NCh2196:2014 y NFPA 99.16
 
-## 3.3 Conexión eléctrica entre equipo generador de Aire y Tablero Existente.26
 
+## 3.2 Conexión de nuevo equipo de aire medicinal a la red neumática existente16
 
-## 3.4 Pruebas sistema eléctrico, control, Puesta a tierra y seguridad.26
 
+## 4. INSTALACIÓN ELÉCTRICA Y CONTROL CENTRALIZADO16
 
-## 3.5 Instalaciones eléctricas para climatización del recinto.27
 
+## 4.1 Levantamientos, memorias de cálculos, ingeniería de detalle y planimetrías As-Built16
 
-## 3.5.1 Arranque a equipo Split ducto y unidad exterior.27
 
+## 4.1.1Levantamientos16
 
-## 3.5.2 Modificación Tablero eléctrico sala (instalación protección eléctrica trifásica de 25A + diferencial 40A).27
 
+## 4.1.2Memorias de cálculos e ingeniería de detalle16
 
-## 3.5.3 Alimentación y Canalización desde TDF a Equipo UI/UE-Z-01 Split ducto 102400 BTU/hr.27
 
+## 4.1.3Planimetrías As-Built16
 
-## 4. INSTALACIONES DE CLIMATIZACIÓN27
 
+## 4.2Adecuación de red eléctrica para nuevo equipo de aire medicinal16
 
-## 4.1 Suministro e instalación de equipo Split ducto de 102.400 BTU/hr + Unidad Exterior + cañerías aisladas.27
 
+## 4.2.1Normalización de tablero eléctrico TDF 2D/Z/B416
 
-## 4.2 Instalación de cañería de condensado PVC hid. 25mm.28
 
+## 4.2.2Suministro e instalación de nuevo alimentador de 95 mm2 (3F+N+T).16
 
-## 4.3 Instalación de aislación de ductos de inyección (sin chaqueta metálica).28
 
+## 4.2.3Retiro de desconectador regulable existente TGAux N°4316
 
-## 4.4 Suministro e instalación ductos metálicos para aire conexión Split.28
 
+## 4.2.4Suministro e Instalación de nuevo desconectador regulable de 175A a 250A en TGAux N°43.16
 
-## 4.5 Soportes de equipos y amortiguadores.29
 
+## 4.3 Conexión eléctrica entre equipo de aire medicinal y Tablero Existente TDF 2D/Z/B4.16
 
-## 4.6 Uniones flexibles conexión ducto a equipo Split ducto.30
 
+## 4.4 Pruebas sistema eléctrico y puesta a tierra16
 
-## 4.7 Puesta en marcha y entrega del sistema de climatización.30
 
+## 4.5 Control Centralizado.16
 
-## 5. CONFIGURACIÓN, PUESTA EN MARCHA Y CAPACITACION EQUIPOS DE AIRE COMPRIMIDO MEDICINAL30
 
+## 4.5.1Conexión del sistema de control de nuevo equipo de aire medicinal a sistema de control centralizado del hospital16
 
-## 5.1 Configuración, integración y monitoreo de sistema de aire medicinal30
 
+## 4.5.2Puesta en marcha, Pruebas de coordinación y funcionamiento con control centralizado (BMS)16
 
-## 5.2 Puesta en marcha y pruebas de funcionamiento en coordinación con Control Centralizado (BMS)32
 
+## 4.6 Instalaciones eléctricas para climatización del recinto.16
 
-## 5.3 Certificación Calidad de Aire (grado N según NCh 2197:1994)33
 
+## 4.6.1Modificación Tablero Eléctrico TDF 2C/Z/B4 en Sala B4-Z-048 – B4-Z-049 (Instalación protección eléctrica Monofásica 25A +  Diferencial 40A).16
 
-## 5.4 Capacitación a personal del Hospital Dr. Gustavo Fricke (Teórica y práctica)33
 
+## 4.6.2Canalización interior desde TDF 2C/Z/B4 a Unidad Interior UI-Z-01 Split ducto 102.400 BTU/hr.16
 
-## 6. ORDEN Y ASEO33
 
+## 4.6.3Canalización exterior desde TDF 2C/Z/B4 a Unidad Exterior UE-Z-01 Split ducto 102.400 BTU/hr.16
 
-## 6.1 Retiro de escombros y limpieza33
 
-ANEXOS34
+## 4.6.4Canalización y conexión de termostato de equipo Split ducto.16
 
-REGLAMENTO DE SEGURIDAD Y PREVENCIÓN DE RIESGOS PARA CONTRATISTAS Y SUBCONTRATISTAS DEL HOSPITAL DR. GUSTAVO FRICKE35
 
+## 4.6.5Conexión Eléctrica a equipo Split Ducto y unidad exterior a tablero TDF 2C/Z/B4.16
 
-## 1.NORMAS BÁSICAS GENERALES PARA CONTRATISTAS PRESTADORES DE SERVICIOS.35
 
+## 5. INSTALACIONES DE CLIMATIZACIÓN16
 
-## 1.1Definiciones35
 
+## 5.1 Levantamientos, memorias de cálculos, ingeniería de detalle y planimetrías As-Built.16
 
-## 1.1.1Empresa contratista:35
 
+## 5.1.1Levantamientos16
 
-## 1.1.2Entidad principal o contratante:35
 
+## 5.1.2Memorias de Cálculos e ingeniería de detalle.16
 
-## 1.1.3Empresa Subcontratista:35
 
+## 5.1.3Planimetrías As-Built.16
 
-## 1.2Declaración35
 
+## 5.2 Suministro e instalación de equipo Split ducto de 102.400 BTU/hr + Unidad Exterior + cañerías aisladas.16
 
-## 1.3Políticas generales de seguridad35
 
+## 5.3 Instalación de cañería de condensado PVC hid. 25mm.16
 
-## 1.4Obligaciones de las empresas contratistas y subcontratistas35
 
+## 5.4 Instalación de aislación de ductos de inyección (sin chaqueta metálica).16
 
-## 2.NORMAS ADMINISTRATIVAS36
 
+## 5.5 Suministro e instalación ductos metálicos para aire conexión Split.16
 
-## 2.1Administrador o coordinador de faena36
 
+## 5.6 Soportes de equipos y amortiguadores.16
 
-## 2.2Programa de Prevención de Accidentes36
 
+## 5.7 Uniones flexibles conexión ducto a equipo Split ducto.16
 
-## 2.3Programa de Prevención de Accidentes37
 
+## 5.8 Puesta en marcha y entrega del sistema de climatización.16
 
-## 2.4Comité Paritario de Higiene y Seguridad37
 
+## 6. CONFIGURACIÓN, PUESTA EN MARCHA Y CAPACITACION EQUIPOS DE AIRE COMPRIMIDO MEDICINAL16
 
-## 2.5Exámenes Ocupacionales37
 
+## 6.1 Certificación Calidad de Aire (grado N según NCh 2197:1992)16
 
-## 2.6Adhesión a Organismo Administrador del Seguro de Accidentes del Trabajo y Enfermedades Profesionales.37
 
+## 6.2 Capacitación a personal del Hospital Dr. Gustavo Fricke (Teórica y práctica)16
 
-## 2.7Programa de Prevención de Accidentes37
 
+## 7. ORDEN Y ASEO16
 
-## 2.8Jornada de trabajo37
 
+## 7.1 Retiro de escombros y limpieza16
 
-## 2.9Disposiciones Legales38
+ANEXOS16
 
+REGLAMENTO DE SEGURIDAD Y PREVENCIÓN DE RIESGOS PARA CONTRATISTAS Y SUBCONTRATISTAS DEL HOSPITAL DR. GUSTAVO FRICKE17
 
-## 2.10Inicio del Servicio38
 
+## 1.NORMAS BÁSICAS GENERALES PARA CONTRATISTAS PRESTADORES DE SERVICIOS.17
 
-## 2.11Áreas y Sectores de trabajo38
 
+## 1.1Definiciones17
 
-## 2.12Equipo de Protección Personal Básico comprenderá38
 
+## 1.1.1Empresa contratista:17
 
-## 2.13Capacitación38
 
+## 1.1.2Entidad principal o contratante:17
 
-## 2.14Orden y Aseo39
 
+## 1.1.3Empresa Subcontratista:17
 
-## 2.15Señalización39
 
+## 1.2Declaración17
 
-## 2.16Prohibiciones39
 
+## 1.3Políticas generales de seguridad17
 
-## 2.17Procedimiento en caso de Accidente39
 
+## 1.4Obligaciones de las empresas contratistas y subcontratistas17
 
-## 2.18Protección contra Incendio39
 
+## 2.NORMAS ADMINISTRATIVAS18
 
-## 3.TRANSGRESIONES A LAS PAUTAS BÁSICAS PARA CONTRATISTAS CON RELACIÓN A LA PREVENCIÓN DE RIESGOS40
 
+## 2.1Administrador o coordinador de faena18
 
-## 4.PROTOCOLO GENERAL PARA TRABAJO DE EMPRESAS CONTRATISTAS EN CONSTRUCCIÓN EN EL HOSPITAL DR. GUSTAVO FRICKE40
 
+## 2.2Programa de Prevención de Accidentes18
 
-## 5. PROTOCOLO PARA EL CONTROL DE INGRESO DE EMPRESAS CONTRATISTAS42
 
-BASES TÉCNICAS
+## 2.3Programa de Prevención de Accidentes19
+
+
+## 2.4Comité Paritario de Higiene y Seguridad19
+
+
+## 2.5Exámenes Ocupacionales19
+
+
+## 2.6Adhesión a Organismo Administrador del Seguro de Accidentes del Trabajo y Enfermedades Profesionales.19
+
+
+## 2.7Programa de Prevención de Accidentes19
+
+
+## 2.8Jornada de trabajo19
+
+
+## 2.9Disposiciones Legales20
+
+
+## 2.10Inicio del Servicio20
+
+
+## 2.11Áreas y Sectores de trabajo20
+
+
+## 2.12Equipo de Protección Personal Básico comprenderá20
+
+
+## 2.13Capacitación20
+
+
+## 2.14Orden y Aseo21
+
+
+## 2.15Señalización21
+
+
+## 2.16Prohibiciones21
+
+
+## 2.17Procedimiento en caso de Accidente21
+
+
+## 2.18Protección contra Incendio21
+
+
+## 3.TRANSGRESIONES A LAS PAUTAS BÁSICAS PARA CONTRATISTAS CON RELACIÓN A LA PREVENCIÓN DE RIESGOS22
+
+
+## 4.PROTOCOLO GENERAL PARA TRABAJO DE EMPRESAS CONTRATISTAS EN CONSTRUCCIÓN EN EL HOSPITAL DR. GUSTAVO FRICKE22
+
+
+## 5. PROTOCOLO PARA EL CONTROL DE INGRESO DE EMPRESAS CONTRATISTAS24
+
+BASES TECNICAS
 
 Las siguientes Bases Técnicas describen los requerimientos técnicos para el proyecto “NORMALIZACIÓN DÉFICIT DE AIRE MEDICINAL EN CENTRAL DE EDIFICIO B, del Hospital Dr. Gustavo Fricke de Viña del Mar”.
 
 ALCANCE
 
-El siguiente documento aplica para la ejecución del proyecto “NORMALIZACIÓN DÉFICIT DE AIRE MEDICINAL EN CENTRAL DE EDIFICIO B, HOSPITAL DR. GUSTAVO FRICKE”, el cual consiste en el retiro de 02 (dos) equipos de generación de aire comprimido medicinal que actualmente están aportando su producto a la red del Hospital y su remplazo por (01) un nuevo equipo generador de aire comprimido medicinal que cumpla con la demanda requerida por el Hospital.
+El siguiente documento aplica para la ejecución del proyecto “NORMALIZACIÓN DÉFICIT DE AIRE MEDICINAL EN CENTRAL DE EDIFICIO B, HOSPITAL DR. GUSTAVO FRICKE”, el cual consiste en el retiro de 02 (dos) equipos de generación de aire comprimido medicinal que actualmente están aportando su producto a la red del Hospital y su reemplazo por (01) un nuevo equipo de aire medicinal que cumpla con la demanda requerida por el Hospital.
 
 Para realizar el proyecto de debe contemplar lo siguiente:
 
@@ -281,9 +338,9 @@ Levantamiento de las instalaciones existentes e ingeniería de detalle.
 
 Normalización de los tableros eléctricos.
 
-Suministro, canalización y conexión un nuevo alimentador de 5 conductores monopolares de 95mm² en dos tramos.
+Suministro, canalización y conexión de un nuevo alimentador de 5 conductores monopolares de 95mm² en dos tramos.
 
-Suministro, instalación y conexión del nuevo C. breaker para 200A.
+Suministro, instalación y conexión del nuevo interruptor de caja moldeada regulable ajustado inicialmente en 200 A.
 
 Instalación y conexión de equipos de climatización UI/UE/T para la sala de aire medicinal piso zócalo.
 
@@ -311,11 +368,29 @@ Para la ejecución del proyecto, la empresa Contratista, en adelante “El Contr
 
 Todos los cálculos contenidos en estas especificaciones tienen carácter informativo, siendo responsabilidad del Contratista verificar, validar y complementar esta información durante el levantamiento y verificación de terreno e ingeniería de detalle del proyecto, asegurando su exactitud y pertinencia técnica.
 
+El Contratista en su calidad de especialista técnico, debe contemplar todas las actividades, materiales, insumos, mano de obra especializada y obras asociadas a la correcta instalación, conexión y puesta en servicio de los sistemas. Por tanto, se entiende que su oferta técnica-económica incluye cualquier trabajo, elemento o accesorio indispensable para el correcto funcionamiento del sistema productor de aire medicinal, aun cuando no esté detallado expresamente en las siguientes especificaciones técnicas.
+
+El Contratista debe cumplir estrictamente con la normativa, especificaciones de este proyecto, planimetría, especificaciones de los fabricantes, manuales y catálogos técnicos.
+
+El Contratista debe reponer a su costo, los equipos que presenten defectos de fábrica o de instalación durante la operación u otro defecto que se presente en el período de garantía.
+
+El Contratista debe entregar un plan de mantenimiento que incluya cada componente y accesorio de la central, que contenga como mínimo:
+
+Descripción general del sistema.
+
+Identificación de los componentes (código, denominación, fabricante, modelo, N.º de serie, ubicación).
+
+Especificaciones y parámetros de operación nominal.
+
+Vida útil estimada y condiciones de reemplazo de los componentes.
+
+Registro de mantenimiento tipo: fecha, tipo de intervención, observaciones, repuestos reemplazados y próximo servicio programado.
+
 El Contratista reconoce que los sensores de monitoreo continuo del suministro constituyen elementos de seguridad preventiva y, por tanto, deben contar con sus respectivas certificaciones y calibraciones vigentes. Sin perjuicio de lo anterior, la conformidad cualitativa del aire producido por la planta no puede basarse únicamente en dichos sensores. La habilitación inicial del sistema requiere una certificación analítica externa, realizada por un laboratorio competente, que verifique que el aire entregado en la conexión final de salida hacia la red de distribución del hospital cumple con los requisitos de calidad establecidos para aire grado N, según la Tabla 1 de la NCh 2197.Of92.
 
-El Contratista debe realizar un levantamiento de los recintos a intervenir y desarrollar la ingeniería de detalle, por lo que debe coordinar con la ITO y ofrecer soluciones a los posibles problemas que pueden surgir al momento de la ejecución.
+El Contratista debe realizar un levantamiento de los recintos a intervenir, memorias de cálculos, ingeniería de detalle y planimetrías As-Built, por lo que debe coordinar con la ITO y ofrecer las soluciones ante a eventuales desviaciones que surjan al momento de la ejecución.
 
-El Contratista será responsable de verificar las cotas y medidas en la obra, como así mismo, coordinar los trabajos para evitar interferencia, con el desarrollo de actividades del recinto. Se deberá reunir y trabajar, en conjunto con la ITO a fin de verificar cualquier dato necesario para un buen replanteo de la obra.
+El Contratista será responsable de verificar las cotas y medidas en la obra, como así mismo, coordinar los trabajos para evitar interferencias físicas y normativas en el desarrollo de actividades del recinto. Se deberá reunir y trabajar, en conjunto con la ITO a fin de verificar cualquier dato necesario para un buen replanteo de la obra.
 
 Durante esta verificación, cualquier anotación o indicación hecha en las especificaciones y que no esté detallada en los planos, o detallada en estos y no indicada en las especificaciones, se considerará como anotada en ambos.
 
@@ -335,7 +410,7 @@ En caso de que no exista espacio suficiente en el hospital, es responsabilidad d
 
 Es responsabilidad del Contratista considerar el resguardo de todos los materiales, equipos, herramientas e insumos a utilizar en el desarrollo del trabajo, el Hospital Dr. Gustavo Fricke no se hará responsable en caso de extravío o pérdidas de materiales, herramientas u otros relacionados o no relacionados con el proyecto y que sean ingresados a dependencias del Hospital por el Contratista o sus colaboradores.
 
-El Contratista debe proporcionar la supervisión de terreno, la cual debe estar a cargo de los profesionales que exijan las normativas aplicables del contrato y estos deben tener experiencia en obras hospitalarias de similares características, en ambos casos deberá acreditar ante la ITO con certificados de experiencia firmados por el mandante o Finiquitos de trabajo.
+El Contratista debe proporcionar la supervisión de terreno, la cual debe estar a cargo de los profesionales que exijan las normativas aplicables del contrato y estos deben tener experiencia en obras hospitalarias específicamente en gases medicinales a lo menos de cinco (5) años de acuerdo a lo indicado en la NCh2196 Of. 2014, en ambos casos deberá acreditar ante la ITO con certificados de experiencia firmados por mandantes o Finiquitos de trabajo relacionado con instalaciones de gases medicinales.
 
 El Contratista debe suministrar toda la mano de obra, requerida para la correcta ejecución de las obras y para cumplir con los plazos ofertados y contratados. El personal deberá ser lo suficientemente idóneo y con experiencia en este tipo de trabajo e instalaciones que se ejecutarán, en este punto, es importante indicar lo siguiente:
 
@@ -357,11 +432,9 @@ A continuación, se detallan las principales consideraciones que el Contratista 
 
 Serán de cargo del Contratista el suministro de todos los materiales, salvo indicación contraria especificada claramente.
 
-Para efectos de presupuesto, cuando se indique una marca o modelo específico, estos deberán considerarse como referencia técnica, pudiendo cotizarse alternativas equivalentes que cumplan con igual desempeño y características mínimas.
+Todos los materiales y equipos deberán identificar claramente el fabricante, incluyendo su capacidad, la documentación técnica asociada y certificaciones de entidades pertinentes (SEC, UL, FM, SISS, ISP, etc.).
 
-Todos los materiales y equipos deberán identificar claramente al fabricante, incluyendo su capacidad y la documentación técnica asociada.
-
-Los proponentes a la adjudicación de la obra deberán basar su presupuesto en estas especificaciones y en los planos. Si hubiese indefinición o ambigüedad de información, los proponentes deberán dirigir sus consultas a través de las consultas del proceso de licitación, de no consultarlo será asumirá que está considerando en su oferta.
+Los proponentes a la adjudicación de la obra deberán basar su presupuesto en estas especificaciones y en los planos. Si hubiese indefinición o ambigüedad de información, los proponentes deberán dirigir sus consultas a través de las consultas del proceso de licitación, de no consultarlo se asumirá que está considerándolo en su oferta.
 
 El Contratista debe entregar al mandante, una vez ejecutada la obra, un manual de mantenimiento de la obra, además de realizar una especificación en términos simples de operaciones y descripción del sistema en caso de que corresponda.
 
@@ -373,9 +446,23 @@ Antes de colocar materiales y/o elementos, la ITO puede solicitar una muestra de
 
 Los materiales deberán contar con certificaciones vigente según la normativa aplicable y su instalación deberá ejecutarse conforme a las recomendaciones del fabricante.
 
-Las características de los materiales se encuentran definidas en estas Especificaciones Técnicas y/o en los planos. Las marcas mencionadas se indican únicamente como referencia técnica, por representar productos que cumplen con los requisitos normativos y de desempeños exigidos.
+En caso que se justifique la modificación de algún material específico, el Contratista debe proponer alternativas de equivalencia técnica de acuerdo al acápite “Equivalencias Técnicas”.
 
-En caso de requerir la modificación de algún material especificado, el Contratista deberá proponer alternativas de equivalencia técnica comprobada, acompañando catálogos, certificados y documentación que respalde dicha equivalencia. Toda sustitución quedará sujeta a evaluación y aprobación de la ITO.
+Equivalencias Técnicas
+
+Durante la ejecución de la obra, el Contratista podrá proponer materiales o productos alternativos a los especificados, siempre que acrediten una equivalencia técnica del 100% respecto de las características físicas, químicas y técnicas exigidas para el proyecto.
+
+Toda solicitud de sustitución debe presentarse a la ITO con al menos 15 días corridos de anticipación a la fecha programada de adquisición, acompañando la justificación técnica del cambio, los antecedentes económicos de la alternativa propuesta y muestras del material para su evaluación.
+
+Asimismo, el Contratista deberá adjuntar certificados emitidos por laboratorios reconocidos (IDIEM, CESMEC, IITE, DICTUC u otros equivalentes), o por el laboratorio del fabricante con certificación UL o ISO, que acrediten documentalmente que el producto ofrecido posee una calidad igual o superior y cumple íntegramente con las especificaciones del proyecto.
+
+La utilización de materiales alternativos sólo podrá autorizarse mediante aprobación escrita de la ITO, una vez verificada su equivalencia total. En caso contrario, dichos materiales no podrán incorporarse a la obra. Si fueran utilizados sin autorización, el Contratista deberá asumir íntegramente los costos de retiro, reposición, reparaciones asociadas y eventuales retrasos, sin perjuicio de las sanciones establecidas en las Bases de Licitación por incumplimiento de una instrucción de la ITO.
+
+Los materiales o marcas aprobados por la ITO no podrán ser posteriormente sustituidos por otros productos. En consecuencia, el Contratista deberá planificar oportunamente sus adquisiciones, evitando retrasos derivados de problemas de abastecimiento. No se aceptarán solicitudes de cambio fundadas en falta de disponibilidad de mercado, ya que dichos riesgos deberán considerarse en su Programa de Adquisiciones.
+
+Las decisiones de la ITO respecto de solicitudes de sustitución serán definitivas e inapelables.
+
+Las marcas y productos señalados en estas Especificaciones Técnicas constituyen una referencia del estándar de calidad mínimo exigido por el Mandante. No obstante, podrán proponerse alternativas que acrediten cumplir íntegramente con dicho estándar, conforme al procedimiento establecido.
 
 No se permitirá que Subcontratistas o el propio Contratista instalen algún material o equipo sin previa autorización o que no corresponda a lo especificado o que no sea su equivalente técnico. En tal caso la ITO ordenará su retiro de inmediato de los trabajos y deberá ser reemplazado por el especificado en el Proyecto.
 
@@ -387,9 +474,13 @@ Mitigaciones:
 
 El Contratista deberá asegurar en todo momento la segregación del área de trabajo y el perímetro de la obra colindante con cualquier sector en uso por el Hospital, siempre cumpliendo con las normativas ambientales, reglamento del hospital, Normas IAAS del MINSAL y las normas de salud, higienes y seguridad además de lo exigido en el ítem 1.2 la presentes bases técnicas,  con especial cuidado en las unidades clínicas y los sectores con tránsito de vehículos, usuarios y funcionarios, dejando siempre espacio suficiente para el tránsito de las camillas, ambulancias y vehículos particulares.
 
+Control niveles de ruido y vibraciones
+
+El Contratista debe mantener los niveles de ruido y vibraciones al mínimo posible, para ello debe entregar un procedimiento para el control de ruido y vibraciones, se debe considerar que estos factores pueden impactar negativamente durante los procedimientos médicos, quirúrgicos o en la recuperación de los usuarios, por esta razón queda estrictamente prohibido el uso de radio, parlantes o dispositivos altavoces para mantener al mínimo los niveles de ruido y contaminación acústica. La infracción de esta prohibición es motivo suficiente para que la ITO curse multas o solicite el retiro del personal del sector o de la obra.
+
 Instalación eléctrica
 
-El Contratista deberá solicitar a la ITO un punto de conexión para la instalación de su tablero de faena, indicando en la solicitud un cuadro de carga con la potencia demandada por los equipos a utilizar. Este tablero será el único elemento de distribución de energía que utilice el Contratista. No obstante, cuando se requiera trabajar en diferentes puntos del hospital, el Contratista podrá solicitar a la ITO la Instalación de otros tableros, recordando que no está permitido el uso directo de las redes eléctricas existentes para actividad de la obra y se llegara a utilizar directamente la red eléctrica será motivo de sanción y el Contratista será deberá hacerse cargo del costo de cualquier evento que pueda ocurrir.
+El Contratista deberá solicitar a la ITO un punto de conexión para la instalación de su tablero de faena, indicando en la solicitud un cuadro de carga con la potencia demandada por los equipos a utilizar. Este tablero será el único elemento de distribución de energía que utilice el Contratista. No obstante, cuando se requiera trabajar en diferentes puntos del hospital, el Contratista podrá solicitar a la ITO la Instalación de otros tableros, recordando que no está permitido el uso directo de las redes eléctricas existentes para actividad de la obra y si se llegara a utilizar directamente la red eléctrica será motivo de sanción y el Contratista deberá hacerse cargo del costo de cualquier evento que pueda ocurrir.
 
 Protección de áreas próximas
 
@@ -419,21 +510,41 @@ El Contratista deberá instalar en sus recintos toda la señalética necesaria, 
 
 RESPONSABILIDADES
 
-El Contratista es responsable de toda la obra incluyendo las obras adicionales y la seguridad, higiene y salud ocupacional de sus trabajadores, así como de que la obra no afecte a los usuarios y funcionarios del hospital, por lo que debe considerar todas las actividades, el uso de materiales no tóxicos y todas medidas de seguridad necesarias para la correcta ejecución y posterior funcionamiento de la obra terminada.
+El Contratista es responsable de toda la obra, incluyendo las obras adicionales y la seguridad, higiene y salud ocupacional de sus trabajadores, asimismo que la obra no afecte a los usuarios y funcionarios del hospital, por lo que debe considerar todas las actividades, el uso de materiales no tóxicos y todas medidas de seguridad necesarias para la correcta ejecución y posterior funcionamiento de la obra terminada.
 
 En caso de omisión de algún elemento en estas especificaciones es responsabilidad del Contratista el consultarlo durante el proceso de licitación, a su vez, considerarlo y agregarlo a su presupuesto o prorratearlo dentro de sus costos a fin de que esto no signifique un costo extra para el Servicio de Salud Viña Del Mar - Quillota - Petorca al momento de la ejecución de la obra.
 
 DE LAS OBLIGACIONES GENERALES Y DEL SUPERVISOR A CARGO DE LOS TRABAJOS
 
-El administrador de contrato a cargo de los trabajos por parte del Contratista debe estar presente durante toda la ejecución de los trabajos y hasta la Recepción Provisoria sin observaciones, suscribiendo las actas respectivas, de la cual debe quedara constancia en el libro de obra.
+Presencia permanente en terreno del administrador de contrato
 
-El Contratista tendrá la obligación de designar a una persona idónea de acuerdo con lo establecido en las Bases Administrativas, este profesional estará a cargo de los trabajos y será el representante autorizado del Contratista para la dirección de los trabajos, estará siempre a cargo de la empresa Contratista. Por último, de ser necesario su reemplazo, se llevará a cabo en un plazo de no más de 03 días corridos, contados desde la notificación por parte de la Inspección Técnica de Obra o el Contratista, cuando fundadamente lo requiera, para la aprobación de su reemplazo éste debe cumplir con los mismos requisitos establecidos en las Bases Administrativas.
+El Administrador de Contrato a cargo de los trabajos por parte del contratista deberá estar presente físicamente en la obra durante toda la ejecución de los trabajos, desde la fecha de entrega de terreno hasta la Recepción Provisoria sin observaciones. Esta presencia será controlada mediante el Libro de Obras y registros de asistencia en faena.
 
-La supervisión técnica de la obra debe estar a cargo por los profesionales competentes de cada una de las áreas específicas, los cuales estarán bajo la dirección del administrador de contrato. estos profesionales deben estar titulados en la especialidad a fin, conta con los respaldos sus credenciales y de su experiencia en obras realizadas en Chile, respaldada a través de documentación emitidos por el mandante de dichas obras.
+Asesor de Prevención de riesgos con presencia permanente en terreno
+
+Dado que los trabajos se ejecutan en un hospital de alta criticidad en pleno funcionamiento, el Contratista deberá proveer un Asesor de Prevención de Riesgos con presencia permanente en terreno, contratado directamente por la empresa contratista.
+
+Este profesional será responsable de:
+
+Garantizar la correcta ejecución de los trabajos en cuanto al resguardo del ambiente hospitalario.
+
+Supervisar las condiciones de higiene y seguridad de la obra en relación con:
+
+Los trabajadores de la empresa contratista.
+
+Los usuarios y funcionarios del Hospital.
+
+Verificar el cumplimiento del Reglamento especial de Salud y Seguridad en el trabajo para empresas contratistas y subcontratistas del Servicio de Salud Viña del Mar – Quillota – Petorca.
+
+Asegurar la impermeabilización de las medidas de mitigación necesarias para evitar afectaciones a zonas asistenciales (ruidos, polvo, vibraciones, accesos, etc.).
+
+Relación directa con la empresa contratista
+
+Tanto el administrador de contrato como el asesor de prevención de riesgos deberán estar contratados directamente por la empresa contratista, sin que puedan ser subcontratados por terceros ni compartidos con otras en simultáneo, salvo autorización expresa de la Inspección Técnica de Obra.
 
 DE LAS OBLIGACIONES DE COORDINACIÓN
 
-El Contratista debe coordinar a través de la ITO el ingreso a cualesquiera áreas clínicas, salas eléctricas, Shaft de especialidades y cualquier otro recinto que se encuentre en uso por el hospital, además de los ingresos de vehículos de materiales y de retiro de escombros.
+El Contratista debe coordinar a través de la ITO el ingreso a cualquier sector del hospital que esté involucrado con el proyecto y cualquier otro recinto que se encuentre en uso por el hospital, además de los ingresos de vehículos de materiales y de retiro de escombros.
 
 El Contratista debe asegurar en todo momento la segregación del área de trabajo de las zonas colindantes que se encuentran en uso por el Hospital para ello debe gestionar a través de la ITO la aprobación de las mitigaciones por parte de Prevencionista de Riesgos del Hospital y/o IAAS del hospital.
 
@@ -457,33 +568,13 @@ LGUC-Ley General de Urbanismo y Construcciones.
 
 OGUC- Ordenanza General de Urbanismo y Construcciones.
 
-Disposiciones sobre seguridad e higiene industrial.
-
-Normativa General de Instalaciones de gas, eléctricas, datos y de teléfonos.
-
-Normativas vigentes para instalaciones de electricidad.
-
-INN – Instituto Nacional de Normalización, aplicando normas técnicas chilenas (NCh) vigentes para ventilación, electricidad y calidad de materiales.
-
-NCh 2196 – Of. 2014 Gases comprimidos - Redes centralizadas y equipos para distribución de gases no inflamables de uso médico - Requisitos generales para su construcción y funcionamiento.
-
-NCh 2197 Of. 1992 Gases comprimidos - Aire - Clasificación, requisitos de calidad y métodos de muestreo y análisis.
-
-Decreto N°8 de 2019 del Ministerio de Energía – Reglamento de Seguridad de las Instalaciones de Consumo de Energía Eléctrica.
-
-RIC – Reglamento de Instalaciones de Consumo (SEC).
-
-Decreto N°8 – “Reglamento de seguridad de las instalaciones de consumo de energía eléctrica del ministerio de energía.”
+Decreto Supremo N°594/1999 – Reglamento sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo.
 
 Decreto Supremo N°44/2024- Nuevo reglamento sobre gestión preventiva de los riesgos laborales para un entorno de trabajo seguro y saludable.
 
-Decreto Supremo N°594/1999 – Reglamento sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo.
+Decreto N°8 de 2019 del Ministerio de Energía – Reglamento de Seguridad de las Instalaciones de Consumo de Energía Eléctrica.
 
 MINSAL – Recomendaciones para Emergencias del MINSAL, Capítulo IV.
-
-Aquellas normas relativas a la seguridad y protección de las personas, seguridad de las instalaciones y equipamiento, a la protección del medio ambiente y a la prevención de incendios.
-
-Cualesquiera otras normativas nacionales vigente que apliquen al proyecto.
 
 Normas del Ministerio de Salud:
 
@@ -493,79 +584,75 @@ Reglamento de Hospitales y Clínicas.
 
 Superintendencia de Electricidad y Combustibles (SEC) – Certificación y fiscalización de instalaciones eléctricas.
 
+Normativas vigentes para instalaciones de electricidad.
+
+RIC – Reglamento de Instalaciones de Consumo (SEC).
+
 Normativa de la Dirección de Arquitectura del MOP – Aplicable a instalaciones hospitalarias.
+
+INN – Instituto Nacional de Normalización, aplicando normas técnicas chilenas (NCh) vigentes para ventilación, electricidad y calidad de materiales.
+
+NCh2196:2014 Gases comprimidos - Redes centralizadas y equipos para distribución de gases no inflamables de uso médico - Requisitos generales para su construcción y funcionamiento.
+
+NCh2197:1992 Gases comprimidos - Aire - Clasificación, requisitos de calidad y métodos de muestreo y análisis.
+
+NCh3308:2024 Ventilación - Calidad aceptable de aire interior – Requisitos.
+
+NCh3241:2017 Sistemas de refrigeración y climatización - Buenas prácticas para el diseño, armado, instalación y mantención.
+
+NCh1079:2019 Arquitectura y construcción – Zonificación climática y térmica para el diseño de edificaciones.
+
+Disposiciones sobre seguridad e higiene industrial.
+
+Normativa General de Instalaciones de gas, eléctricas, datos y de teléfonos.
+
+Aquellas normas relativas a la seguridad y protección de las personas, seguridad de las instalaciones y equipamiento, a la protección del medio ambiente y a la prevención de incendios.
+
+Cualesquiera otras normativas nacionales vigente que apliquen al proyecto.
 
 Normativa Internacional
 
-- NFPA (National Fire Protection Association).
+NFPA (National Fire Protection Association).
 
-- NFPA 70 – National Electrical Code (NEC).
+NFPA 70 – National Electrical Code (NEC).
 
-- NFPA 99 – 2021 “Código para las Instituciones de Atención de Salud”.
+NFPA 99 – 2021 “Código para las Instituciones de Atención de Salud”.
 
-- ISO 13485:2016 – “Medical devices – Quality management systems – Requirements for regulatory purposes”.
+ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers).
+
+ISO 13485:2016 – “Medical devices – Quality management systems – Requirements for regulatory purposes”.
 
 Otras consideraciones normativas
 
-Normativas ambientales y de control de emisiones y ruido, en línea con lo establecido por la Superintendencia del Medio Ambiente (SMA).
-
-Normativas sobre prevención de riesgos laborales, en coordinación con la Asociación Chilena de Seguridad (ACHS) o mutualidades correspondientes.
+Ley 21634, moderniza la ley N°19.886 y otras leyes, para mejorar la calidad del gasto público, aumentar los estándares de probidad y transparencia e introducir principios de economía circular en las compras del estado
 
 DS N°75 del MOP, Deroga Decreto Nº15, de 1992, y sus modificaciones posteriores y aprueba reglamento para contratos de obras públicas.
-
-Ley 21634, moderniza la ley N°19.886 y otras leyes, para mejorar la calidad del gasto público, aumentar los estándares de probidad y transparencia e introducir principios de economía circular en las compras del estado
 
 Los D.S. 594/99 MINSAL y sus modificaciones, Reglamento sobre condiciones Sanitarias y Ambientales básicas en los lugares de trabajo y Nº146 del Ministerio Secretaría General de Gobierno del 24.12.97 publicada en Diario Oficial el 17.04.98, que fija los niveles máximos de ruidos permisibles en zonas mixtas residencial con comercio y decibeles máximos permitidos en recintos hospitalarios. Además, las instalaciones de faena deberán cumplir la anterior normativa durante su funcionamiento considerando lo referente a niveles de contaminación.
 
 Normas Infecciones Asociadas a la Atención de Salud (IAAS)
 
+Normativas ambientales y de control de emisiones y ruido, en línea con lo establecido por la Superintendencia del Medio Ambiente (SMA).
+
+Normativas sobre prevención de riesgos laborales, en coordinación con la Asociación Chilena de Seguridad (ACHS) o mutualidades correspondientes.
+
 ESPECIFICACIONES TÉCNICAS PARTICULARES
 
 Las siguientes especificaciones técnicas están destinadas al reemplazo del equipo de aire medicinal que surte al edificio B en el Proyecto de Normalización del Hospital Dr. Gustavo Fricke.
 
-Los trabajos especificados se centran en la desconexión (del equipo existente) y reconexión (del nuevo equipo) eléctrica, mecánica, hidráulica y de control de los equipos compresores existentes y elementos asociados, además de la modificación necesaria dentro de la sala de aire medicinal (código PMA B4 Z 048 - B4 Z 049) del piping de aire comprimido cuando se requiera, de acuerdo con los planos oficiales y/o especificaciones especiales que se detallarán más adelante. Todas las actividades comprendidas en este proyecto deben llevarse a cabo estrictamente conforme a estas especificaciones técnicas, asegurando la calidad y presentación, así como el cumplimiento de los estándares de construcción establecidos por la Normalización del Hospital Dr. Gustavo Fricke y las prácticas del buen construir.
+Los trabajos especificados se centran en la instalación de un sistema productor de aire medicinal provisorio, la desconexión, retiro y almacenaje de los equipos existentes, adecuación de obras civiles y el suministro e instalación de un nuevo equipo productor de aire medicinal, para todos los casos se deben considerar los trabajos relacionadas con las instalaciones eléctricas, mecánicas, hidráulicas, climatización, de control del nuevo sistema y sus componentes, además se debe considerar todas las modificaciones necesarias dentro y fuera de la sala de aire medicinal (código PMA B4 Z 048 - B4 Z 049) de acuerdo con los planos oficiales y/o especificaciones especiales que se detallarán más adelante. Todas las actividades comprendidas en este proyecto deben llevarse a cabo estrictamente conforme a la normativa vigente y a estas especificaciones técnicas, asegurando un alto grado la calidad y presentación de las instalaciones, así como el cumplimiento de los estándares de construcción establecidos por la Normalización del Hospital Dr. Gustavo Fricke y las prácticas del buen construir.
 
-Imagen N°1: Ubicación actual de la Central de aire comprimido medicinal acceso sur del hospitalSala de Aire medicinalB4/Z/048  - B4/Z/049
+Sala de Aire medicinalB4/Z/048  - B4/Z/049Sala de Aire medicinalB4/Z/048  - B4/Z/049Imagen N°1: Ubicación actual de la Central de aire comprimido medicinal acceso sur del hospital
 
 Sala de Aire medicinal
 
 B4/Z/048  - B4/Z/049
 
-El trabajo que incluyen estas especificaciones, incorpora la mano de obra, materiales menores, equipos, instrumental eléctrico y ejecución de todos los trabajos relacionados con la desinstalación e instalación del nuevo equipo de aire comprimido de acuerdo con las indicaciones elaboradas por el especialista y/o como se especifiquen más adelante, hasta su completa terminación, según las exigencias reglamentarias de los organismos de control y a las especificaciones de los fabricantes, los que deben cumplir fielmente a ellos y por los catálogos respectivos.
+Sala de Aire medicinal
 
-El Contratista debe cumplir estrictamente con los planos y especificaciones de este proyecto.
+B4/Z/048  - B4/Z/049
 
-El Contratista debe proporcionar reproducciones fotográficas o catálogos de todos los equipos por instalar, así como una descripción de su funcionamiento y características principales.
-
-El Contratista debe reponer a su costo, los equipos que presenten defectos de fabrica o por instalación durante la operación u otro defecto que se presente en el período de garantía. El Contratista, debe presentar un plan de mantenimiento con costos asociados.
-
-Las pasadas de losas, tabiques y muros deberán practicarse con taladros de percusión y brocas del diámetro externo del tubo a pasar en la obra gruesa, las vigas no podrán ser perforadas. Para el retape de cada perforación, se ubicarán las cañerías ordenadamente y el Contratista deberá rellenar con espuma aislante ignifuga de secado instantáneo.
-
-Las tuberías a la vista, por cielos falsos, deberán ir colocadas en soportes normales y especiales, de Riel RC 19X35X2 de acero galvanizado. Las tuberías van apoyadas y fijadas con abrazaderas RT-RC de acero con su aislamiento de PVC conduit, anclados y colgados desde losa con 2 tirantes de esparrago de 3/8”, uno en cada extremo del soporte, en intervalos regulares de distancia de acuerdo con Tabla 4 del Ítem 13.2 “Intervalos recomendados entre soportes de tubería” según NCH 2196:2014, a fin de evitar que las uniones queden sometidas a formación de combas o a distorsión.
-
-Diámetro exterior, d, de la tuberíamm
-
-Intervalo máximo entre apoyosm
-
-d 15
-
-1,5
-
-22 <d 28
-
-2,0
-
-35 <d 54
-
-2,5
-
-54 <d
-
-3,0
-
-Adicionalmente, tales soportes, deben ser apoyados con colgantes del tipo arriostres con un tirante, a intervalos de distancia de 12 metros, en todas las acometidas horizontales, para cumplir con disposición del MINSAL sobre concepto de vulnerabilidad sísmica.
-
-Todas las tuberías, deben estar completamente alineadas y todas las bajadas serán a plomo e identificadas con los colores reglamentarios. Todas las redes del sistema de Gases Clínicos horizontales deben ser accesibles en todo su recorrido.
+El trabajo que incluyen estas especificaciones, considera el suministro de equipos, mano de obra, materiales menores e insumos, pruebas, certificaciones y ejecución de todos los trabajos relacionados con la desinstalación e instalación del nuevo equipo de aire comprimido de acuerdo con las indicaciones elaboradas por el especialista y/o como se especifiquen más adelante, hasta su completa terminación.
 
 IMPORTANTE: Los trabajos no deben impedir el normal tránsito de personas en dependencias del recinto Hospitalario, bloqueando completamente circulaciones y accesos del edificio.
 
@@ -573,26 +660,33 @@ IMPORTANTE: Los trabajos no deben impedir el normal tránsito de personas en dep
 ## 1. OBRAS PREVIAS
 
 
-## 1.1 Instalación de Faenas
+## 1.1 Instalación y retiro de  faena
+
+Traslado e instalación de Contenedor
 
 La Instalación de Faenas debe estar conformada por contenedores oficina y bodega o la construcción de ella respetando la normativa sanitaria vigente, esta instalación debe estar ubicada en el exterior del edificio y no intervenir el normal funcionamiento del recinto hospitalario ni de sus unidades médicas.
 
-En caso de que no exista espacio suficiente en el hospital, es responsabilidad del Contratista gestionar una dependencia fuera de este y cercana al hospital, para mantener la presencia en obra del profesional residente y sus trabajadores.
+En caso de que no exista espacio suficiente en el hospital, es responsabilidad del contratista gestionar una dependencia fuera de este y cercana al hospital, para mantener la presencia en obra del profesional residente y sus trabajadores.
 
-El Contratista deberá solicitar autorización a la Inspección Técnica de Obras (ITO) para la instalación de un tablero de faenas exclusivo para la obra, indicando la potencia estimada demandada. Este será el único punto autorizado para la distribución de energía, quedando expresamente prohibido el uso de las redes eléctricas existentes del Hospital. Dicho tablero deberá contar, como mínimo para una protección termomagnéticas de 63A, protecciones diferenciales correspondientes, sistema de puesta a tierra y barra copperweld para el aterrizaje del tablero y el container. La conexión la deberá realizar el especialista eléctrico del contratista y debe considerar, como mínimo, la utilización mediante un cordón de 3x10 mm². La alimentación del tablero se efectuará exclusivamente desde el punto autorizado por la ITO y el jefe del Área Eléctrica del HDGF, mediante la correspondiente anotación en el Libro de Obra. Queda terminantemente prohibido obtener energía de forma directa o sin la debida autorización.
+El Contratista debe instalar un tablero de faenas exclusivo para la obra, indicando la potencia estimada demandada. Este será su único punto de distribución de energía, prohibiéndose expresamente el uso de las redes eléctricas existentes del Hospital. Dicho tablero, debe contar con protecciones magnetotérmicas de 16A monofásica como mínimo, diferencial y conexión a tierra con cordón de 3x2.5 mm², será alimentado exclusivamente desde el punto que autoricen la ITO y el Jefe del Área Eléctrica del HDGF mediante anotación en Libro de Obra. Queda terminantemente prohibido obtener energía de forma directa o sin esta autorización, además todas las instalaciones eléctricas serán ejecutadas y supervisadas por un instalador autorizado con calificación Clase B de la SEC.
 
-Asimismo, todas las instalaciones eléctricas deberán ser ejecutadas y supervisadas por un instalador eléctrico autorizado, con certificación SEC mínima Clase A. Por otra parte, una vez finalizada la obra el Contratista deberá realizar el desarme y retiro de la instalación de faena, así como también de las instalaciones provisorias correspondientes, dejando el lugar limpio y ordenado.
+Retiro y Traslado de Contenedor
 
+Una vez finalizadas las obras y previo a tramitar el último estado de pago, el contratista debe realizar el retiro de todos los elementos que conforman la instalación de faenas. Además, el contratista ejecutará la desconexión segura del empalme y tablero provisorio mediante un Instalador Eléctrico autorizado SEC Clase B.
 
-## 1.2 Mitigaciones
+Posterior a la desconexión, se coordinarán las maniobras de izaje y carga del contenedor mediante grúas horquillas con operadores calificados (licencia de conducir correspondiente), para su posterior transporte fuera del recinto del hospital, dejando el área de emplazamiento totalmente libre de escombros, limpia y ordenada.
+
+Es importante recordar que, para la realización de estas maniobras, el contratista debe presentar la documentación indicada en el punto N°5 del Reglamento de seguridad y prevención de riesgos para contratistas y subcontratistas del Hospital Dr. Gustavo Fricke.
+
+Instalación y Retiro de Mitigaciones
 
 El Contratista deberá asegurar en todo momento la segregación del área de trabajo y el perímetro de la obra colindante con cualquier sector en uso por el Hospital, siempre cumpliendo con las normativas ambientales, reglamento del hospital, Normas IAAS del MINSAL y las normas de salud e higienes y seguridad y a lo exigido más adelante en la presentes bases, con especial cuidado en las unidades clínicas y los sectores con tránsito de vehículos, usuarios y funcionarios, dejando siempre espacio suficiente para el tránsito de las camillas, ambulancias y vehículos particulares.
 
 Mitigaciones exteriores:
 
-El Contratista debe Se debe coordinar con la ITO el trazado de la mitigación y hacer la solicitud de permiso de trabajo.
+El Contratista debe coordinar con la ITO el trazado de la mitigación y hacer la solicitud de permiso de trabajo.
 
-El permiso de trabajo será gestionado por la ITO, quien una vez que cuente con la aprobación de IASS o Prevención de riesgo del hospital procederá a autorizar los trabajos.
+El permiso de trabajo será gestionado por la ITO, quien una vez que cuente con la aprobación de IAAS o Prevención de riesgo del hospital procederá a autorizar los trabajos.
 
 Para el cerco perimetral y cierre duro, se debe utilizar placa OSB de 9mm de espesor pintada de blanco estructurada con bastidores de pino 2”x3”, anclado y arriostrado a piso.
 
@@ -608,7 +702,7 @@ El permiso de trabajo será gestionado por la ITO, quien una vez que cuente con 
 
 Estas medidas son de carácter obligatorio y su correcta ejecución será evaluada por la Inspección Técnica de Obra (ITO) y la unidad de IAAS de HDGF, quien debe dar su aprobación tanto para la instalación e inicio de los trabajos, así como de la limpieza antes del retiro de estas.
 
-La Mitigación se debe ejecutar mediante un cerramiento perimetral hermítico, estructurado mediante bastidores conformado por bastidores de cañerías de PVC hidráulico de 32mm, revestidos con láminas de polietileno transparente o negro de espesor 0.15mm.
+La Mitigación se debe ejecutar mediante un cerramiento perimetral hermético, estructurado mediante bastidores de cañerías de PVC hidráulico de 32mm, revestidos con láminas de polietileno transparente o negro de espesor 0.15mm.
 
 El sistema de cerramiento debe contar con una puerta de acceso del mismo material, equipada con pestillo y debe asegurar un cierre hermético en todo momento. Queda expresamente prohibido el uso de cortinas plásticas, lonas, telas u otros elementos no estructurados que no garantice la hermeticidad. Todas las uniones entre bastidores, muros, cielos y pisos deberán quedar perfectamente sellados con cinta adhesiva, para evitar la migración de polvo u otros contaminantes hacia las áreas clínicas adyacentes.
 
@@ -616,7 +710,7 @@ En caso de ser necesario utilizar un cierre duro, este será de placa OSB de 9mm
 
 Para Los cierres duros al interior del hospital se podrá exigir forrarlos con polietileno, donde toda junta (entre paneles, y entre cielo/piso) debe quedar sellada con cinta adecuada para evitar la migración de polvo a las áreas clínicas aledañas.
 
-Como método de acceso al área de trabajo se debe implementarse una puerta con pestillo y que asegure la hermeticidad de la mitigación, no se aceptaron cortinas ni otro método que no garantice la hermeticidad de la mitigación.
+Como método de acceso al área de trabajo se debe implementar una puerta con pestillo y que asegure la hermeticidad de la mitigación, no se aceptarán cortinas ni otro método que no garantice la hermeticidad de la mitigación.
 
 En las mitigaciones al interior de las áreas clínicas se debe utilizar un sistema de limpiapiés que garantice que al momento de salir de la mitigación no salga polvo en las ruedas de los carros, carretillas o zapatos de los trabajadores.
 
@@ -631,29 +725,43 @@ Las medidas de mitigación serán inspeccionadas por la ITO antes del inicio de 
 El no implementar las mitigaciones o no realizar la mantención o limpieza es motivo de sanciones de acuerdo con lo establecido en las bases de licitación por faltas a la, salud, higiene, seguridad y medio ambiente.
 
 
-## 1.3 Equipo de respaldo temporal de aire medicinal (arriendo, traslado, conexión y retiro).
+## 1.3 Equipo de Aire Medicinal Temporal para Respaldo de red existente
 
-Para poder realizar la actividad principal de reposición del equipo generador de aire comprimido, el Contratista deberá dar soporte temporal al sistema para asegurar el suministro de aire durante el proceso de desconexión, instalación y hasta la puesta en marcha del nuevo equipo generador de aire.
+Para poder realizar la actividad principal de reposición del equipo generador de aire comprimido, el Contratista deberá asegurar la continuidad ininterrumpida del suministro de aire medicinal durante todo el proceso de desconexión, obras civiles, montaje y hasta la puesta en marcha de la nueva central, garantizando que el establecimiento de salud de alta complejidad no sufra variaciones ni caídas de presión en sus áreas clínicas y de soporte vital.
 
-Para esto el Contratista deberá suministrar temporalmente un equipo generador de aire comprimido el cual deberá contar, como mínimo, con las mismas características del equipo a instalar, el cual deberá contar con compresores libres de aceite que aporte un caudal de 200 CFM a 50 psig a la red, con filtros desecantes capaces de filtrar el caudal máximo demandado, el Contratista será responsable de ejecutar y retirar la conexión temporal a la red de suministro de aire del hospital; también es de su responsabilidad el conexionado eléctrico del equipo, para ello, el Contratista debe coordinar con la ITO los puntos donde se deberá conectar.
+Suministro e Instalación red de aire entre equipo de aire medicinal temporal y red de aire existente
 
-Con esta intervención el Contratista debe asegurar el suministro de aire a la red del edificio B con la calidad de aire medicinal (grado N) que la NCh 2196:2014 y NFPA 99 2021, establece como requisitos para sus equipos para distribución de gases de uso médico, utilizando materiales para las conexiones provisorias libres de aceites y lubricantes. No se aceptarán equipos de producción de aire industrial, el equipo temporal también debe cumplir con los requisitos establecidos en la ISO 13485:2016.
+Dado el carácter de alta complejidad del establecimiento de salud, y en estricto cumplimiento de la normativa técnica vigente para sistemas de gases medicinales (NCh 2196:2014), la ejecución e instalación física del trazado de interconexión de la red de aire es un requerimiento obligatorio e indispensable para asegurar la operatividad y el abastecimiento del hospital.
 
-Previo a su conexionado a la red de suministro, el Contratista deberá asegurar que el equipo de respaldo suministra una calidad de aire de Grado N de acuerdo a lo establecido en la NCh 2197:1992. En caso de que no cumpla estos requisitos, el Contratista deberá disponer de otro equipo.
+Para lo anterior, el Contratista suministrará e instalará en el exterior un terminal de acople rápido con tapón ciego roscado de latón desengrasado con cadena de sujeción (sello de seguridad obligatorio contra contaminantes externos), seguido de una válvula de corte de bola de paso total de 3 piezas de bronce de 2" nominal, desengrasada y certificada para gases clínicos (con extensiones de cañería de cobre de grado medicinal ASTM B819 de 2" soldadas en fábrica y maneta bloqueable LOTO). Esta sección se alojará en un gabinete metálico de protección mecánica adecuado para la intemperie y el ambiente salino de la zona, con la tubería de cobre de grado medicinal sin costura ASTM B819 Tipo K de 2" nominal (cuyo diámetro de diseño deberá ser ratificado por el Contratista mediante memoria de cálculo de dimensionamiento a presentar a la ITO para su aprobación antes de la ejecución), la cual deberá ser suministrada limpia, debidamente desengrasada de fábrica y con sus extremos taponados de origen. La cañería expuesta se pintará con el color normativo para aire medicinal según la Tabla 2 de la NCh 2196, correspondiente a tubería de color negro con banda blanca (Códigos RAL 9017 / 1013) y letras de color blanco sobre negro, quedando la entrega de este trazado sujeta a los protocolos de prueba e inspección de gases clínicos según NCh 2196:2014.
 
-El Contratista deberá implementar todas las medidas necesarias para garantizar la protección integral del sistema de respaldo mientras permanezca en servicio y durante la instalación de la nueva unidad. Dado que este equipo se ubicará en el exterior y estará expuesto a la intemperie, el Contratista deberá asegurar su resguardo frente a agentes climáticos, golpes, manipulaciones indebidas e intervenciones de terceros. Asimismo, deberá capacitar al personal del hospital en la operación de este equipo ante emergencias, ya que será el equipo vital del hospital durante la desconexión del equipo existente.
+Por el lado interior protegido, se deberá instalar una válvula check clínica de retención en línea de 2" nominal (con resorte de acero inoxidable, sellos elásticos desengrasados compatibles y diseño desmontable o con extensiones de cobre soldadas de fábrica), seguida por una válvula de bola de aislamiento de 3 cuerpos de 2" nominal con sistema de bloqueo LOTO (manilla bloqueable mediante candado) instalada inmediatamente antes del punto de empalme, desengrasada y certificada para gases clínicos de idénticas características a la exterior, conectándose finalmente a la red principal mediante soldadura fuerte con aleación de plata (mínimo 15% Ag, sin fundente y bajo atmósfera de nitrógeno seco) de acuerdo a NCh 2196. Tanto la válvula exterior como los tramos de cañería de cobre de grado medicinal de 2" expuestos deberán ser rotulados e identificados con placas metálicas de acero inoxidable con grabado indeleble sujetas firmemente con precinto de alambre de acero inoxidable. En dichas placas se indicará de manera legible: el tipo de fluido y presión ("AIRE MEDICINAL - 50 PSIG"), la función ("CONEXIÓN RED DE AIRE"), el sentido de flujo mediante flecha direccional y su estado operativo de seguridad ("NORMALMENTE CERRADA").
 
-Este sistema de reemplazo temporal deberá permanecer en obra hasta la realización de las pruebas de puesta en marcha y la aprobación definitiva del I.T.O. de la nueva Central de aire comprimido medicinal para el edificio B.
+Suministro e Instalación de alimentación eléctrica para equipo de aire medicinal temporal
+
+El Contratista será el responsable exclusivo de ejecutar el suministro, canalización y conexionado de la alimentación eléctrica requerida para el funcionamiento del equipo de aire medicinal, debiendo coordinar previamente con la ITO el punto exacto de empalme en los tableros generales o auxiliares del hospital.
+
+La totalidad de las instalaciones eléctricas asociadas a esta partida, incluyendo canalizaciones, conductores, tableros, puestas a tierra de protección y servicio, e interruptores termomagnéticos y diferenciales, deberán ejecutarse en estricto cumplimiento de la normativa eléctrica nacional vigente (Reglamento de Seguridad de Instalaciones de Consumo de Energía Eléctrica, pliegos técnicos RIC / SEC y normas NCh aplicables), garantizando en todo momento la seguridad de las personas, la continuidad operativa y la ausencia de perturbaciones en la red eléctrica del hospital.
+
+Arriendo Equipo de Aire Medicinal Temporal (Arriendo – Traslado – Conexionado – Retiro)
+
+El Contratista deberá suministrar bajo modalidad de arriendo un equipo generador de aire medicinal temporal durante todo el periodo que duren las faenas de normalización de la central definitiva. Dicho equipo deberá contar, como mínimo, con las mismas prestaciones y confiabilidad del sistema a instalar, contemplando compresores exentos de aceite capaces de aportar un caudal continuo de a lo menos 200 CFM a 50 psig a la red, provisto de secadores desecantes dúplex y filtros de tratamiento capaces de retener humedad, partículas y vapores. El equipo temporal deberá contar con certificación de fabricación para uso médico bajo norma ISO 13485:2016.
+
+La partida incluye el traslado, flete en camión pluma, descarga, posicionamiento en el exterior, anclaje seguro, puesta en marcha, mantenciones preventivas durante la operación y su posterior desconexión y retiro al finalizar la obra.
+
+Previo a su conexión e inyección a la red de distribución clínica, el Contratista deberá verificar y certificar que el aire suministrado cumple con los parámetros de Calidad de Aire Grado N según NCh 2197:1992. Asimismo, el Contratista implementará el resguardo y protección física del equipo frente a las condiciones climáticas de la intemperie y capacitará al personal técnico del hospital en su operación básica mientras se encuentre en servicio.
 
 
-## 2. RETIRO, SUMINISTRO E INSTALACIÓN DE CENTRAL DE AIRE COMPRIMIDO MEDICINAL
+## 2. RETIRO, SUMINISTRO E INSTALACIÓN DE EQUIPO DE AIRE MEDICINAL
 
 
-## 2.1 Desmontaje de equipo compresor de aire actual
+## 2.1 Desmontaje de equipo de aire medicinal existente
 
-Actualmente está en operación dos equipos generadores de aire comprimido medicinal que surten a las tomas de aire del edificio B, sin embargo, éstos han sido seleccionados sin considerar la normativa vigente, por lo que la central aporta un caudal inferior al requerido por diseño y normativa.
+Actualmente están en operación dos equipos de aire medicinal que surten a las tomas de aire del edificio B, sin embargo, éstos han sido seleccionados sin considerar la normativa vigente, por lo que la central aporta un caudal inferior al requerido por diseño y normativa.
 
-Se trata de un equipo generador de aire comprimido medicinal marca OHIO MEDICAL modelo AS500B-ST12-DD, Scroll dodecaplex (12 compresores y 12 motores) 5HP c/u, 460V, 60Hz, 3 fases con estanque de acumulación de 240 galones y 2 filtros desecantes de 177 CFM c/u.
+Central Principal Existente: Equipo generador de aire medicinal marca OHIO MEDICAL, modelo AS500B-ST12-DD, tecnología Scroll dodecaplex (12 compresores y 12 motores de 5 HP c/u, 460V, 60Hz, trifásico), equipado con estanque de acumulación de 240 galones y dos (02) secadores/filtros desecantes de 177 CFM c/u.
+
+Central Secundaria Existente: Equipo generador de aire medicinal marca OHIO MEDICAL, modelo AS500B-ST7-DD, tecnología Scroll heptaplex (7 compresores y motores de 5 HP c/u, 460V, 60Hz, trifásico), equipado con estanque de acumulación de 200 galones y dos (02) secadores/filtros desecantes de 88,2 CFM c/u.
 
 El Contratista, antes de comenzar los trabajos, debe hacer llegar al ITO, un protocolo de procedimiento de trabajo, considerando la desconexión eléctrica del tablero principal, la desconexión de las cañerías que suministran aire medicinal al edificio y el desmonte, retiro y traslado de las centrales actuales.
 
@@ -708,18 +816,51 @@ Estructuras soportantes de perfiles de acero galvanizado, con alma de celosías 
 Se colocará según instrucciones del fabricante.
 
 
-## 2.2 Embalaje y traslado de equipos desmontados a acopio en subterráneo.
+## 2.2 Embalaje y traslado de equipos de aire medicinal desmontados a acopios en subterráneo
 
-Los equipos deben quedar resguardados de daños físicos, por lo que su embalaje se realizará sobre estructura de madera tipo pallet y forrado con placas de OBS de 12.5mm reforzadas con pino de 1”x2” y etiqueta de identificación con lamina de protección acrílica, su lugar de acopio será en el nivel -1 de edificio, por lo que se deberá realizar un trabajo coordinado con Ingeniería Operativa del hospital para su ubicación especifica.
+Los equipos deben quedar resguardados de daños físicos, por lo que su embalaje se realizará sobre estructura de madera tipo pallet y forrado con placas de OSB de 12.5mm reforzadas con pino de 1”x2” y etiqueta de identificación con lamina de protección acrílica, su lugar de acopio será en el nivel -1 de edificio, por lo que se deberá realizar un trabajo coordinado con Ingeniería Operativa del hospital para su ubicación especifica.
 
 
-## 2.3 Suministro y montaje de nuevo equipo generador de aire medicinal Hexaplex 15HP c/u
+## 2.3 Acondicionamiento de sala para nuevo equipo
 
-Se considera determinar un equipo generador de Aire Medicinal tipo Hexaplex 15Hp (5 compresores funcionando en forma alternada y 1 en reserva), fabricado bajo norma ISO 13485:2016, que contenga:
+Una vez realizado el retiro y reubicación completa del equipo de aire existente, el Contratista debe iniciar el montaje del nuevo equipo generador de aire medicinal, para ello deberá realizar las adecuaciones necesarias a la banqueta y el retiro de la celosía, siempre y cuando sean estrictamente necesarias.
 
-Seis torres de compresores scroll exentos de aceite.
+De no ser requeridas, estas actividades serán disminuidas del contrato mediante el procedimiento de “Notas de Cambio”.
 
-Seis motores de 15 Hp c/u, 380 Volts, 50 Hz, trifásico.
+Demolición de base de hormigón de equipo existente
+
+El Contratista deberá realizar la demolición de las baldosas existente para dar cabida al hormigón para la adecuación de la banqueta. Esta actividad se debe realizar con sumo cuidado para no afectar la losa.
+
+Las pasadas de losas, tabiques y muros deberán practicarse con taladros de percusión y brocas del diámetro externo del tubo a pasar en la obra gruesa, las vigas no podrán ser perforadas. Para el retape de cada perforación, se ubicarán las cañerías ordenadamente y el Contratista deberá rellenar con espuma aislante ignifuga de secado instantáneo.
+
+Retiro de escombros
+
+El Contratista deberá realizar el retiro de los escombros generados por la demolición de las baldosas existente y todo lo relacionado a las obras civiles, su disposición final debe ser en botadero autorizado y el contratista deberá entregar el comprobante de recepción de los residuos por el botadero a la ITO.
+
+Adecuación y Hormigonado de nueva base para equipo
+
+El Contratista deberá realizar la adecuación de la banqueta a las dimensiones del nuevo equipo, para ello, deberá realizar la inyección de enfierradura con sikadur 31 o equivalente técnico y hormigonar la nueva banqueta con hormigón G-25 como mínimo, por el volumen de hormigón se aceptará el uso de hormigón predosificados en sacos de 25 kg, previo al hormigonado se debe aplicar puente adherente tipo colmafix 32 o equivalente técnico.
+
+Desarme de cielo acústico
+
+Para poder realizar la intervención en las instalaciones existentes (electricidad, gases clínicos y climatización) en el entrecielo del recinto, el Contratista debe realizar el desmonte, adecuación y posterior reinstalación del cielo acústico. A su vez, esta intervención deberá considerar habilitar accesos mediante gateras registrables con el mismo tipo de cielo para permitir el mantenimiento del equipo Split ducto, así como la instalación de las respectivas rejillas para la recirculación del aire.
+
+Durante el proceso de retiro, manipulación y reinstalación, el contratista deberá extremar las precauciones para evitar daños en los paneles del cielo. En caso de que alguno de estos elementos resulte deteriorado por causas atribuibles a las labores de desmonte, adecuación y reposición, el reemplazo de este será de responsabilidad del contratista sin que signifique un costo adicional para el servicio.
+
+Reinstalación de cielo acústico
+
+Una vez concluidas la totalidad de las intervenciones en el cielo (tendido de ductos de climatización, canalizaciones eléctricas, tuberías de cobre de gases clínicos u otros), el Contratista deberá ejecutar la reinstalación, reubicación y nivelación de la perfilería y paneles del cielo acústico existente. Todo panel o perfil que resulte manchado o perforado indebidamente o deteriorado durante las faenas deberá ser reemplazado por el Contratista a su exclusivo costo, por elementos nuevos de idénticas características técnicas y estéticas, o por un equivalente técnico de estándar igual o superior, previa autorización de la ITO.
+
+3 SUMINISTRO E INSTALACIÓN DE EQUIPO DE AIRE MEDICINAL
+
+
+## 3.1 Suministro y montaje de nuevo equipo de aire medicinal: Pentaplex 15HP c/u, tipo scroll sin aceite, 201,6 CFM (mín), estanque acumulador 240 galones, 400V, 50Hz, trifásico, 2 secadores de aire desecantes, tablero eléctrico automático. Equipo seleccionado de acuerdo con NCh2196:2014 y NFPA 99.
+
+Se considera determinar un equipo generador de Aire Medicinal tipo Pentaplex 15Hp (4 compresores funcionando en forma alternada y 1 en reserva), fabricado bajo norma ISO 13485:2016, que contenga:
+
+Cinco torres de compresores scroll exentos de aceite.
+
+Cinco motores de 15 Hp c/u, 380 Volts, 50 Hz, trifásico.
 
 Dos secadores de adsorción dúplex con control de ahorro de purga, cada secador capaz de filtrar 200 cfm.
 
@@ -983,7 +1124,7 @@ Los equipos y accesorios de estas instalaciones deberán corresponder a fabrican
 
 Las salidas y sus elementos de conexión secundarios deberán cumplir con las especificaciones técnicas del fabricante, estar construidos con materiales certificados para uso en instalaciones mecánicas y acreditar cumplimiento de las normas aplicables a su categoría, garantizando su operación dentro de las condiciones de servicio definidas en el proyecto.
 
-Los equipos recomendados como referencia, que reúnen estos requisitos, son los BEACON MEDAES USA – CHEMETRON ALLIED USA – OHIO MEDICAL USA – AMICO CANADÁ u otros equipos similares que sean un Equivalente Técnico o Superior con Certificados autorizados, ya mencionados.
+Los equipos recomendados como referencia, que reúnen estos requisitos, son los BEACON MEDAES USA – CHEMETRON ALLIED USA – OHIO MEDICAL USA – AMICO CANADÁ u otros equipos similares que sean Equivalente Técnico o Superior con certificado ISO 13.485.
 
 En resumen, los equipos deberán contar con:
 
@@ -997,51 +1138,20 @@ La capacidad y eficiencia de los equipos serán garantizadas por el proveedor.
 
 El proveedor será responsable de embalar el equipo de manera tal que no sufra daños durante su transporte.
 
-En rigor, el Contratista deberá proveer de un sistema de aire comprimido con todos los elementos e instrumentación que muestra la siguiente imagen correspondiente a la NCh 2196:2014 Figura E.5, pero aplicado a un equipo Hexaplex.
+En rigor, el Contratista deberá proveer de un sistema de aire comprimido con todos los elementos e instrumentación que muestra la siguiente imagen correspondiente a la NCh 2196:2014 Figura E.5, pero aplicado a un equipo Pentaplex.
 
-El equipo propuesto debe estar confeccionado y certificado bajo los estándares de la ISO 13485:2016
-
-EL RESPALDO INDICADO EN EL ESQUEMA ADJUNTO, NO SE CONSIDERA DENTRO DEL
+El equipo propuesto debe estar confeccionado y certificado bajo los estándares de la ISO 13485:2016.
 
 Imagen N°6 – Esquema típico de referencia sistema aire comprimido medicinal (triplex) NCh 2196:2014
 
-**El esquema adjunto P&ID es referencial, ya que se indica un sistema TRIPLEX y es necesario instalar un sistema HEXAPLEX. Debiendo respetar la configuración e instalación de los componentes del esquema**
+**El esquema adjunto P&ID es referencial, ya que se indica un sistema TRIPLEX y es necesario instalar un sistema Pentaplex. Debiendo respetar la configuración e instalación de los componentes del esquema**
 
-ES IMPORTANTE MENCIONAR QUE LA PUERTA DE ACCESO AL RECINTO CUENTA CON 1.6 m DE ANCHO x 1.90m DE ALTO, ADEMAS EN CASO DE SER NECESARIA EL RETIRO DEL MURO CON SOLOCIAS  LA ALTURA MAXIMA DE ESE SECTOR ES DE 2.2 m.
-
-
-## 2.4 Montaje e instalación de nuevo equipo compresor de aire
-
-Una vez realizado el retiro y reubicación completa del equipo de aire existente, el Contratista debe iniciar el montaje del nuevo equipo generador de aire medicinal, para ello deberá realizar las adecuaciones necesarias a la banqueta y el retiro de la celosía, siempre y cuando sean estrictamente necesarias.
-
-De no ser requeridas, estas actividades serán disminuidas del contrato mediante el procedimiento de “Notas de Cambio”.
+ES IMPORTANTE MENCIONAR QUE LA PUERTA DE ACCESO AL RECINTO CUENTA CON 1.6 m DE ANCHO x 1.90m DE ALTO, ADEMAS EN CASO DE SER NECESARIA EL RETIRO DEL MURO CON CELOSÍAS LA ALTURA MAXIMA DE ESE SECTOR ES DE 2.2 m.
 
 
-## 2.4.1 – Demoliciones.
+## 3.2 Conexión de nuevo equipo de aire medicinal a la red neumática existente
 
-El Contratista deberá realizar la demolición de las baldosas existente para dar cabida al hormigón para la adecuación de la banqueta. Esta actividad se debe realizar con sumo cuidado para no afectar la losa.
-
-
-## 2.4.2 – Retiro de escombros
-
-El Contratista deberá realizar el retiro de los escombros generados por la demolición de las baldosas existente y todo lo relacionado a las obras civiles, su disposición final debe ser en botadero autorizado y el contratista deberá entregar el comprobante de recepción de los residuos por el botadero a la ITO.
-
-
-## 2.4.3 – Hormigón adecuación banqueta de equipo .
-
-El Contratista deberá realizar la adecuación de la banqueta a las dimensiones del nuevo equipo, para ello, deberá realizar la inyección de enfierradura con sikadur 31 o equivalente técnico y hormigonar la nueva banqueta con hormigón G-25 como mínimo, por el volumen de hormigón se aceptará el uso de hormigón predosificados en sacos de 25 kg, previo al hormigonado se debe aplicar puente adherente tipo colmafix 32 o equivalente técnico.
-
-
-## 2.4.4 – Desarme y reposición de cielo acústico.
-
-Para poder realizar la intervención en las instalaciones existentes (electricidad, gases clínicos y climatización) en el entrecielo del recinto, el Contratista debe realizar el desmonte, adecuación y posterior reinstalación del cielo acústico A su vez, esta intervención deberá considerar la dejar acceso mediante “gateras” con el mismo tipo de cielo para permitir el acceso al equipo Split ducto a instalar, las respectivas rejillas para la recirculación del aire.
-
-Durante el proceso de retiro, manipulación y reinstalación, el contratista deberá extremar las precauciones para evitar daños en los paneles del cielo. En caso de que alguno de estos elementos resulte deteriorado por causas atribuibles a las labores de desmonte, adecuación y reposición, el reemplazo de este será de responsabilidad del contratista sin que signifique un costo adicional para el servicio.
-
-
-## 2.4.5 – Conexión de nuevo equipo compresor de aire.
-
-El Contratista debe realizar la conexión del nuevo equipo generador de aire medicinal de acuerdo con las especificaciones técnicas que presente el proveedor del equipo y realizar las adecuaciones necesarias en el recinto.
+El Contratista debe realizar el montaje del nuevo equipo generador de aire medicinal de acuerdo con las especificaciones técnicas que presente el proveedor del equipo y realizar las adecuaciones necesarias en el recinto.
 
 Los componentes de un sistema centralizado para gases de uso médico deben ser compatibles con el oxígeno y con los otros gases que se distribuyen, bajo toda clase de condiciones; en todo caso, deben estar limpios y exentos de aceite, grasas, partículas y derivados de hidrocarburos. Esta limpieza debe estar certificada.
 
@@ -1067,21 +1177,27 @@ Para el aire comprimido medicinal: negro c/banda blanca de 10 cm colocadas a un 
 
 Los rótulos adhesivos con la identificación del gas correspondiente y el sentido del flujo que conducen irán adheridos en todas las tuberías de aire comprimido medicinal, sin excepción. Las letras deben ser de una altura igual o mayor que 6mm, la leyenda o el rótulo adhesivo debe ser durable en el tiempo y de firme adhesión a la cañería, como en la siguiente imagen:
 
-AIRE MEDICINAL
+AIRE MEDICINAL AIRE MEDICINAL
 
 AIRE MEDICINAL
 
-Flecha sentido transporte y nombre de gas clínicoTubería pintada con color correspondiente al gas
+AIRE MEDICINAL
+
+Tubería pintada con color correspondiente al gasTubería pintada con color correspondiente al gasFlecha sentido transporte y nombre de gas clínicoFlecha sentido transporte y nombre de gas clínico
+
+Tubería pintada con color correspondiente al gas
+
+Tubería pintada con color correspondiente al gas
 
 Flecha sentido transporte y nombre de gas clínico
 
-Tubería pintada con color correspondiente al gas
+Flecha sentido transporte y nombre de gas clínico
 
 Imagen N°9: Imagen de referencia
 
 Fittings: Se debe hacer uso de fitting de cobre para soldar de acuerdo con ANSI B16.22. En lo posible, se minimizará el uso de fittings, debido a que ello aumenta las pérdidas de carga en la red.
 
-Se usarán válvulas de corte tipo bola importadas, certificadas y limpias para uso de gases medicinales. Serán de cuerpo completo, de tres piezas, con rebordes para el uso de mantenimiento o emergencia, deberá tener un cuerpo de bronce y un vástago contra reventones.
+Se usarán válvulas de corte tipo bola importadas, certificadas y limpias para uso de gases medicinales. Serán de cuerpo completo, de tres piezas, con rebordes para labores de aislamiento y mantención operacional, deberá tener un cuerpo de bronce y un vástago contra reventones.
 
 Imagen N°10: Imagen de referencia
 
@@ -1097,7 +1213,7 @@ Se aceptarán uniones atornilladas, las que serán sólo las estrictamente indis
 
 Con lo descrito y a modo de norma general, los elementos de unión, derivación, cambios de dirección, etc. prefabricados, moldeados y/o estampados, deberán reunir las especificaciones de la cañería de cobre tipo K de grado médico.
 
-Soldadura: Las tuberías de cobre se deben unir con soldaduras fuerte, entre ellas y sus accesorios. Se empleará soldadura de plata al 35%, libre de Cadmio y soplete oxiacetilénico o propánico cuidando que su penetración sea pareja y de perfecta apariencia.
+Soldadura: Las tuberías de cobre se deben unir con soldaduras fuerte, entre ellas y sus accesorios. Se empleará soldadura de plata al 15% (sin fundente y bajo atmósfera inerte de nitrógeno) libre de Cadmio y soplete oxiacetilénico o propánico cuidando que su penetración sea pareja y de perfecta apariencia.
 
 Se exigirá al Contratista la entrega de un informe en el cual contenga la trazabilidad de las soldaduras suministradas, en el cual se identifiquen los números de lote de fabricación, certificados de calidad del material, registro de guía de despacho y el despacho del lote a obra, incluyendo, además, un registro fotográfico del lote en terreno.
 
@@ -1107,8 +1223,34 @@ El I.T.O. podrá verificar en cualquier momento, mediante medición, si se está
 
 El Contratista no debe contaminar la red de aire comprimido medicinal al ejecutar el trabajo de instalación del nuevo equipo compresor de aire.
 
+Las tuberías a la vista, por cielos falsos, deberán ir colocadas en soportes normales y especiales, de Riel RC 19X35X2 de acero galvanizado. Las tuberías van apoyadas y fijadas con abrazaderas RT-RC de acero con su aislamiento de PVC conduit, anclados y colgados desde losa con 2 tirantes de esparrago de 3/8”, uno en cada extremo del soporte, en intervalos regulares de distancia de acuerdo con Tabla 4 del Ítem 13.2 “Intervalos recomendados entre soportes de tubería” según NCH 2196:2014, a fin de evitar que las uniones queden sometidas a formación de combas o a distorsión.
 
-## 3. INSTALACIÓN ELÉCTRICA
+Diámetro exterior, d, de la tuberíamm
+
+Intervalo máximo entre apoyosm
+
+d 15
+
+1,5
+
+22 <d 28
+
+2,0
+
+35 <d 54
+
+2,5
+
+54 <d
+
+3,0
+
+Adicionalmente, tales soportes, deben ser apoyados con colgantes del tipo arriostres con un tirante, a intervalos de distancia de 12 metros, en todas las acometidas horizontales, para cumplir con disposición del MINSAL sobre concepto de vulnerabilidad sísmica.
+
+Todas las tuberías, deben estar completamente alineadas y todas las bajadas serán a plomo e identificadas con los colores reglamentarios. Todas las redes del sistema de Gases Clínicos horizontales deben ser accesibles en todo su recorrido.
+
+
+## 4. INSTALACIÓN ELÉCTRICA Y CONTROL CENTRALIZADO
 
 La instalación eléctrica y de control correspondiente al nuevo equipo generador de Aire Comprimido Medicinal del Edificio B deberá ejecutarse utilizando exclusivamente materiales, equipos y componentes nuevos, certificados y de primera calidad, debidamente autorizados y/o certificados por la Superintendencia de Electricidad y Combustibles (SEC), según corresponda. No se aceptará la utilización de elementos reutilizados, reacondicionados, reparados o que no cuenten con certificaciones vigentes y trazables.
 
@@ -1143,10 +1285,99 @@ La instalación deberá considerar la correcta conexión y monitoreo de los equi
 Finalmente, será responsabilidad del Contratista entregar toda la documentación técnica de respaldo, incluyendo planos actualizados, manuales de operación, protocolos de pruebas de funcionamiento, certificaciones SEC de equipos y materiales, protocolos de puesta a tierra y registros de pruebas eléctricas, como condición previa a la recepción de la obra.
 
 
-## 3.1 Suministro e instalación de alimentador, regularización de tablero e instalación de breaker
+## 4.1 Levantamientos, memorias de cálculos, ingeniería de detalle y planimetrías As-Built
 
+El Contratista deberá realizar un levantamiento de las condiciones técnicas de terreno para confirmar la factibilidad de conexión del nuevo equipo a los tableros existentes, considerando la capacidad de carga, el estado de las protecciones y las condiciones actuales de las instalaciones.
 
-## 3.1.1 Normalización de tablero eléctrico TDF 2D/Z/B4
+Una vez realizado el levantamiento, el Contratista debe entregar una memoria de cálculo con cuadros de carga, diseño de tableros, puestas a tierra y la planimetría para construcción, así como la planimetría As-built al finalizar el proyecto.
+
+En caso de requerirse modificaciones o adecuaciones, estas deberán ser informadas y presentadas formalmente para su aprobación por parte de la Inspección Técnica de Obra (ITO), previo a su ejecución.
+
+Levantamientos
+
+El levantamiento tendrá por finalidad verificar, identificar y corroborar en terreno las condiciones reales de las instalaciones eléctricas existentes asociadas a la Central de Aire Medicinal, ubicada en el Piso Zócalo, considerando todos aquellos elementos que puedan tener incidencia en la ejecución de las obras eléctricas proyectadas.
+
+La inspección deberá considerar, como mínimo, el Tablero de Distribución de Fuerza TDF 2D/Z/B4 y TGAuxN°43, los alimentadores involucrados, las protecciones eléctricas existentes, las barras de distribución, las canalizaciones y escalerillas porta conductores correspondientes al trazado proyectado de aproximadamente 35 metros.
+
+El Contratista deberá elaborar y entregar a la ITO un Informe de Levantamiento Técnico, el cual deberá ser presentado y aprobado previo al inicio de los cálculos, suministro de materiales y ejecución de las intervenciones eléctricas, de manera de contar con los antecedentes técnicos necesarios para validar las condiciones existentes y ejecutar correctamente las obras posteriores.
+
+El informe deberá contener, como mínimo:
+
+Identificación del tablero TDF 2D/Z/B4 y TGAux N°43.
+
+Fecha del levantamiento y personal responsable de su ejecución.
+
+Descripción general de la configuración eléctrica existente de los tableros involucrados.
+
+Características técnicas de los principales componentes y dispositivos inspeccionados.
+
+Verificación de la capacidad física y condiciones interiores de los gabinetes.
+
+Verificación de la disponibilidad de espacio para la incorporación de nuevas protecciones y componentes eléctricos.
+
+Identificación de las protecciones eléctricas existentes y sus principales características técnicas, incluyendo corriente nominal, número de polos, capacidad de ruptura y regulación, cuando corresponda.
+
+Identificación y verificación de los alimentadores existentes asociados a la intervención, indicando cantidad de conductores y sección.
+
+Levantamiento del recorrido previsto para los nuevos alimentadores, considerando una longitud aproximada de 35 metros.
+
+Identificación de interferencias, cruces, cambios de nivel u otras condiciones que puedan afectar el trazado de los nuevos alimentadores.
+
+Identificación y verificación de los puntos disponibles para la conexión al sistema de puesta a tierra del Hospital.
+
+Verificación de las condiciones generales de seguridad eléctrica de los elementos que serán intervenidos.
+
+Registro de cualquier condición anómala detectada durante la inspección.
+
+Comparación entre los antecedentes técnicos y planimetría disponible y las condiciones reales verificadas en terreno.
+
+Identificación de discrepancias, interferencias o condiciones existentes que puedan afectar la ejecución de las obras proyectadas.
+
+Recomendaciones y consideraciones técnicas necesarias para la correcta ejecución de los trabajos.
+
+Conclusiones del levantamiento, fuera de norma, etc.
+
+Todas las discrepancias detectadas entre los antecedentes del proyecto y las condiciones existentes deberán quedar claramente identificadas y respaldadas en el Informe de Levantamiento Técnico.
+
+En caso de detectarse condiciones que requieran modificar trazados, protecciones, secciones de conductores, puntos de conexión u otros aspectos definidos en el proyecto, el Contratista deberá informar previamente a la ITO y presentar los antecedentes técnicos que justifiquen la modificación. No se podrán ejecutar modificaciones respecto de la solución proyectada sin la correspondiente revisión y V°B° de la ITO.
+
+Memorias de cálculos e ingeniería de detalle
+
+Cálculo de Alimentadores y Subalimentadores: Determinación de secciones por capacidad de corriente de conductores según RIC, aplicando factores de corrección por temperatura y agrupamiento.
+
+Coordinación de Protecciones
+
+Cálculo de Caída de Tensión: Verificar que la caída de tensión permanente sea ≤3,0% en el alimentador y que la caída de tensión transitoria en el momento del arranque de los motores de los compresores no supere el 15,0% para no desestabilizar otros equipos del hospital.
+
+Cálculo de la caída de Tensión para 400V.
+
+Medición de puesta a tierra:
+
+Solo debes adjuntar la medición de la resistencia actual que certifique que la malla sigue operando en valores normativos admisibles.
+
+Fotografía clara de la medición del telurómetro conectado a la malla existente
+
+Copia del certificado de calibración vigente del telurómetro utilizado.
+
+Planimetrías As-Built
+
+El Contratista será responsable de elaborar, actualizar y entregar la documentación gráfica final de la obra en planos AS-BUILT reflejando con exactitud la configuración eléctrica definitiva de los tableros TDF 2D/Z/B4 y TGAUX N°43, los esquemas unilineales actualizados y los diagramas de control (solo si existen).
+
+Contenido del Juego de Planos:
+
+Plano Unilineal General: Diagrama unilineal actualizado del TDF 2D/Z/B4 y TGAux N°43 y tableros derivados.
+
+Diagrama de Control y Fuerza: Diagrama de conexiones detallado de los esquemas unilineales actualizados y los diagramas de control.
+
+Formatos de Entrega:
+
+Los planos deberán ser entregados en formato digital (DWG) mediante correo electrónico al ITO y AITOs encargados, la entrega en formato físico debe ser después de la verificación de correspondencia de los diagramas con las instalaciones ejecutadas en digital.
+
+El Contratista será responsable de la calidad y exactitud de los planos, los cuales deberán ser aprobados por la Asesoría de Inspección Técnica de Obras (AITO) antes de la solicitud de recepción provisoria de las obras, la ejecución de estos planos estará a cargo del contratista, quien tendrá la responsabilidad de ir actualizando los registros de las instalaciones durante la ejecución de los trabajos y reflejándolas en los planos de aptos para construcción.
+
+Adecuación de red eléctrica para nuevo equipo de aire medicinal
+
+Normalización de tablero eléctrico TDF 2D/Z/B4
 
 Como trabajos previos, se deberá ejecutar la normalización del tablero eléctrico TDF 2D/Z/B4, ubicado en piso zócalo. Actualmente cuenta con un alimentador de 35 mm², condición que no satisface los requerimientos eléctricos del sistema proyectado.
 
@@ -1180,8 +1411,7 @@ Asimismo, el tablero deberá considerar todos los elementos, adaptaciones y adec
 
 Además, el contratista deberá verificar la correcta integración y funcionamiento de todos los elementos eléctricos, de control y protección asociados al tablero, asegurando la compatibilidad operacional con el nuevo equipo generador de Aire Medicinal y el sistema de monitoreo existente del establecimiento.
 
-
-## 3.1.2 Suministro, Canalización y Conexión un nuevo alimentador de 5 conductores monopolares de 95mm² (3F+N+T).
+Suministro e instalación de nuevo alimentador de 95 mm2 (3F+N+T).
 
 Se deberá ejecutar el suministro, canalización y conexión de un nuevo alimentador compuesto por cinco (05) conductores monopolares de 95 mm², incluyendo sus respectivas terminaciones y elementos de fijación. Cabe señalar que, de acuerdo con lo establecido en el proyecto y los requerimientos eléctricos del sistema, se debe considerar un conductor de 95 mm² para corrientes superiores a 200 A, asegurando así el cumplimiento de la capacidad de conducción exigida.
 
@@ -1195,9 +1425,7 @@ Tramo 2:
 
 Consiste en la canalización, tendido y conexión los nuevos alimentadores (05) de 95 mm², desde el desconectador Q13 ubicado en el tablero AUX N.º 43 hasta el tablero TDF 2D/Z/B4, ubicado en la sala de aire comprimido medicinal, considerando un recorrido aproximado de 35 metros.
 
-Imagen N°11: Tramos de canalización.Tramo 1(interior tablero)Tramo 2 (llega a tablero)Tramo 2
-
-Tramo 1(interior tablero)
+Tramo 2 (llega a tablero)Tramo 2 (llega a tablero)Tramo 2Tramo 2Tramo 1(interior tablero)Tramo 1(interior tablero)Imagen N°11: Tramos de canalización.
 
 Tramo 2
 
@@ -1205,26 +1433,30 @@ Tramo 2
 
 Tramo 2
 
+(llega a tablero)
 
-## 3.1.3 Suministro y conexión de un nuevo desconectador regulable de 175 A a 250 A en TGauxN°43
+Tramo 2
+
+Tramo 2
+
+Tramo 1(interior tablero)
+
+Tramo 1(interior tablero)
+
+Retiro de desconectador regulable existente TGAux N°43
 
 Se deberá ejecutar el suministro y reemplazo de un nuevo desconectador (breaker), correspondiente al Q13 del tablero AUX N.º 43, debido a que el equipo actualmente instalado posee un rango de corriente regulable entre 125 A y 160 A, condición que no satisface los requerimientos mínimos establecidos por el fabricante para la correcta operación del sistema proyectado, el cual contempla una corriente máxima de operación aproximada de 200 A.
 
-El Contratista deberá verificar que la totalidad del sistema de control continúe operando correctamente una vez instalados el nuevo equipo en el tablero N.º 43 y el tablero TDF 2D/Z/B4, considerando la nueva capacidad instalada. Lo anterior implica asegurar que todos los componentes del sistema se mantengan acordes a las nuevas capacidades y demandas requeridas por el proyecto, toroides compatibles con la nueva sección de conductores, barras de distribución correspondiente a la capacidad y cualquier elemento asociados al sistema de control y visualización (Display).
+Suministro e Instalación de nuevo desconectador regulable de 175A a 250A en TGAux N°43.
 
-Importante: El cambio del alimentador (Tramo 1) y desconectador en el tablero TGaux N.°43 se realizará considerando un único corte eléctrico programado de cuatro horas descartándose la opción de cortes en dos etapas, la maniobra de instalación será realizada por una persona calificada, que será supervisada por un profesional con certificación SEC clase A, contratado por el Contratista. Este corte deberá ser previamente coordinado con la ITO y autorizado por la administración hospitalaria.
+Se deberá ejecutar el suministro e instalación de un nuevo desconectador regulable (breaker) de 175 A a 250 A, correspondiente al Q13 del tablero AUX N.º 43.
 
+El Contratista deberá verificar que la totalidad del sistema de control continúe operando correctamente una vez instalados el nuevo equipo en el tablero TGAux Nº 43 y el tablero TDF 2D/Z/B4, considerando la nueva capacidad instalada. Lo anterior implica asegurar que todos los componentes del sistema se mantengan acordes a las nuevas capacidades y demandas requeridas por el proyecto, toroides compatibles con la nueva sección de conductores, barras de distribución correspondiente a la capacidad y cualquier elemento asociados al sistema de control y visualización (Display).
 
-## 3.2 Levantamientos, memorias de cálculos, ingenierías de detalles y planimetrías as-built.
-
-El Contratista deberá realizar un levantamiento de las condiciones técnicas de terreno para confirmar la factibilidad de conexión del nuevo equipo a los tableros existentes, considerando la capacidad de carga, el estado de las protecciones y las condiciones actuales de las instalaciones.
-
-Una vez realizado el levantamiento, el Contratista debe entregar una memoria de cálculo con cuadros de carga, diseño de tableros, puestas a tierra y la planimetría para construcción, así como la planimetría As-built al finalizar el proyecto.
-
-En caso de requerirse modificaciones o adecuaciones, estas deberán ser informadas y presentadas formalmente para su aprobación por parte de la Inspección Técnica de Obra (ITO), previo a su ejecución.
+Importante: El cambio del alimentador (Tramo 1) y desconectador en el tablero TGAux N.°43 se realizará considerando un único corte eléctrico programado de cuatro horas descartándose la opción de cortes en dos etapas, la maniobra de instalación será realizada por una persona calificada, que será supervisada por un profesional con certificación SEC clase A, contratado por el Contratista. Este corte deberá ser previamente coordinado con la ITO y autorizado por la administración hospitalaria.
 
 
-## 3.3 Conexión eléctrica entre equipo generador de Aire y Tablero Existente.
+## 4.3 Conexión eléctrica entre equipo de aire medicinal y Tablero Existente TDF 2D/Z/B4.
 
 La conexión eléctrica del nuevo equipo generador de Aire Comprimido Medicinal del Edificio B del Hospital Dr. Gustavo Fricke debe utilizar el nuevo tablero regularizado (3.1.1). Se contempla específicamente la alimentación desde el tablero TDF 2D/Z/B4 para el sistema proyectado, en donde el ajuste inicial del desconectador (breaker) deberá configurarse en 200 A.
 
@@ -1243,7 +1475,7 @@ La segregación de circuitos de fuerza, control y señales de monitoreo deberá 
 Todas las instalaciones eléctricas y de control debe dar cumplimiento al DFL N°4 de la SEC, el Reglamento Interno de Instalaciones de Consumo (RIC) y su Pliego Técnico complementario.
 
 
-## 3.4 Pruebas sistema eléctrico, control, Puesta a tierra y seguridad.
+## 4.4 Pruebas sistema eléctrico y puesta a tierra
 
 La instalación deberá cumplir el DFL N°4 de la SEC, el Reglamento de Instalaciones de Consumo (RIC) y su Pliego Técnico Complementario, además de respetar las buenas prácticas hospitalarias y las disposiciones específicas del fabricante de los equipos, incluyendo sus recomendaciones técnicas.
 
@@ -1252,136 +1484,11 @@ El Contratista debe verificar los sistemas realizando mediciones a través de in
 La correcta ejecución de estas pruebas y su validación es requisito indispensable para la recepción técnica de la instalación.
 
 
-## 3.5 Instalaciones eléctricas para climatización del recinto.
+## 4.5 Control Centralizado.
 
+Conexión del sistema de control de nuevo equipo de aire medicinal a sistema de control centralizado del hospital
 
-## 3.5.1 Arranque a equipo Split ducto y unidad exterior.
-
-El arranque eléctrico para Split Ducto piso zócalo, será trifásico de 400V, terminado en cajas de distribución, cableado para uso en ambientes húmedos mediante multiconductor 5 x 4 mm², aislación RZ1-K, o material libre de halógenos.
-
-
-## 3.5.2 Modificación Tablero eléctrico sala (instalación protección eléctrica trifásica de 25A + diferencial 40A).
-
-Para el sistema de climatización, se deberá intervenir el tablero eléctrico existente TDF 2C/Z/B4. Para ello, se deberá considerar la instalación de una barra tetrapolar, la instalación de riel DIN, dos (02) interruptores termomagnéticos tripolares de 25 A, dos (02) interruptores diferenciales tetrapolares de 40 A y un conjunto de borneras para conductores de 4 mm², considerando diez (10) borneras operativas y cinco (05) de reserva.
-
-Asimismo, el contratista deberá asegurar que el tablero continúe operando correctamente una vez ejecutadas las intervenciones, garantizando el normal funcionamiento de todos los sistemas asociados y verificando la correcta operación de los equipos existentes.
-
-
-## 3.5.3 Alimentación y Canalización desde TDF a Equipo UI/UE-Z-01 Split ducto 102400 BTU/hr.
-
-La alimentación eléctrica de los dos (02) equipos split deberá realizarse desde las borneras de conexión de 4 mm² dispuestas en el tablero, y no directamente desde los interruptores diferenciales, con el fin de asegurar una correcta conexión eléctrica.
-
-Asimismo, se deberá considerar la canalización y conexión hacia los termostatos, los cuales se ubicarán a los costados del tablero TDF 2C/Z/B4. Toda la canalización correspondiente a la alimentación eléctrica deberá ejecutarse utilizando la bandeja existente. Por otra parte, la canalización de control asociada a los termostatos deberá ejecutarse mediante una nueva canalización en tubería metálica eléctrica EMT de ½”.
-
-La conexión entre los equipos interiores y el termostato deberá realizarse en la caja metálica de 100 x 50 mm. Las uniones deberán ejecutarse mediante flexible de ¾”, conectores de ¾” y reducción a ½” para su conexión con la canalización EMT.
-
-
-## 4. INSTALACIONES DE CLIMATIZACIÓN
-
-
-## 4.1 Suministro e instalación de equipo Split ducto de 102.400 BTU/hr + Unidad Exterior + cañerías aisladas.
-
-Para la climatización de la sala de aire medicinal (B4-Z-049) se deberá considerar la instalación de un equipo de aire acondicionado tipo Split Ducto, con una capacidad de 102400 BTU/hr, alimentación monofásica y tecnología inverter, o equivalente, similar al modelo GEDA136ECO‑INV-N2, o superior, que cumpla con los requerimientos técnicos del proyecto.
-
-Imagen N°11: Especificaciones Equipo Split Ducto.
-
-Asimismo, se deberán contemplar la provisión e instalación de tuberías de cobre, aislamiento térmico, accesorios, fittings, soportes y demás elementos necesarios para su correcta instalación, conexión y puesta en servicio, todo ello conforme a las especificaciones técnicas y recomendaciones del fabricante, normativa vigente y buenas prácticas de la especialidad.
-
-
-## 4.2 Instalación de cañería de condensado PVC hid. 25mm.
-
-Para la evacuación de las aguas que condensa el equipo Split se debe realizar un desagüe con cañerías de PVC hidráulico de 25mm, este desagüe debe tener un sifón registrable con uniones americanas en cual desaguara directamente a la canaleta de aguas lluvia de la terraza.
-
-
-## 4.3 Instalación de aislación de ductos de inyección (sin chaqueta metálica).
-
-Después de las modificaciones y pruebas de hermeticidad, Se debe suministrar e instalar la aislación térmica a los ductos de inyección considerando que ellos transportarán aire frío o caliente en forma frecuente.
-
-La aislación térmica se ejecutará en lana de vidrio con foil de aluminio en 1 cara:
-
-•   Para ductos interiores: Densidad de 12 Kg/m3 aproximadamente y espesor de 25 mm.
-
-•   Para ductos exteriores: Densidad de 12 Kg/m3 aproximadamente y espesor de 25 mm.
-
-El material aislante será provisto en rollos. Las terminaciones se afianzarán al ducto con cinta adhesiva de aluminio en rollos de 50 mm de ancho.
-
-Toda superficie de ductos con aislación térmica que sufra algún deterioro producto de la manipulación, por motivos propios del trabajo, debe ser reparada con similar material.
-
-En caso de haber modificado otros ductos existentes, los que por necesidades del montaje del proyecto hayan sido intervenidos, estos deberán ser considerados para reponer su aislación térmica.
-
-Los ductos que se desplazan por exterior, expuestos al ambiente no requerirán chaqueta metálica.
-
-
-## 4.4 Suministro e instalación ductos metálicos para aire conexión Split.
-
-Una vez desarmado los ductos existentes, se debe suministrar los ductos de conexión con el Split ducto, para ello los ductos de inyección y ventilación del tipo TDC de 40x30 serán fabricados en plancha de acero galvanizado liso, de sección rectangular, de acuerdo con recomendaciones ASHRAE, según se indican a continuación:
-
-Lado mayor del ducto (mm)
-
-Espesor (mm)
-
-Hasta 300
-
-0.5
-
-301 a 750
-
-0.6
-
-750 a 1200
-
-0.8
-
-Chaqueta metálica protectora de aislación térmica
-
-0.35 mínimo
-
-El sistema preferente de unión que se utilizará en los distintos tramos será tipo TDC (Transverse Duct Connector System), sin embargo, en las secciones de pequeños tamaños se usarán juntas deslizantes tipo balleta. El ducto TDC cuenta con una brida la cual es parte del ducto y le brinda refuerzo contra la deformación permitiendo utilizar calibres de plancha delgados en donde ser permisible.
-
-Contará con un esquinero tipo escuadra para la unión del ducto con otro ducto Para cerrar las uniones de diferentes tramos y piezas, se debe proveer una empaquetadura de Butyl en todo el perímetro de ella. Esto sellará la unión y evitará fugas o infiltraciones de aire no deseadas.
-
-Sólo si es aplicable, en todas las bifurcaciones y confluencias de flujos de aire se deberán instalar templadores divisores de caudal de aire con el propósito de acceder a las acciones de balance que se requieran en el período de puesta en marcha de los sistemas.
-
-Cuando el sistema proyectado considere acometidas de ramales contra un ducto principal, por medio de unión triple o "zapato chino", la misma debe incluir damper manuales para el balance de los flujos. Estos damper contarán con una barra de accionamiento externo.
-
-Imagen N°12: Detalle soporte ductos para Split Ducto
-
-
-## 4.5 Soportes de equipos y amortiguadores.
-
-Para la instalación del equipo Split Ducto se debe fabricar una estructura metálica para sopórtalo, esta debe ser fabricas con bastidor de ángulo laminado 40x3mm con arriostramiento del mismo material, esta debe ser anclada a la losa con barra hilada de ½” con taco de anclaje y anchor fix-1 y las diagonales con pernos de anclaje ½”x3”.
-
-Imagen N°13: Detalle soporte para Split Ducto
-
-Para la condensadora exterior, se debe fabricar bases de estructura metálica en perfil 40x40x3mm la cual se fijará a la losa por medio de flanges con pernos de anclaje de 1/2"x 3” de largo embebidos en adhesivo para anclaje tipo anchorfix-1 de Sika o equivalente técnico.
-
-Para la instalación de los equipos se deben instalar también soporte de goma antivibración, esto con el fin que los equipos no trasmitan las vibraciones de funcionamiento al edificio y reducir la carga sísmica del edificio hacia el equipo.
-
-Imagen N°13: Detalle soporte para Unidad Exterior
-
-
-## 4.6 Uniones flexibles conexión ducto a equipo Split ducto.
-
-En todos los puntos que de cambio de material en encuentros de estructuras dilatadas o que puedan generar distintos tipos de movimientos frente a un sismo, se deben instalar uniones flexibles que permitan reducir estos movimientos y reducir el estrés sísmico en el equipo Split Ducto.
-
-
-## 4.7 Puesta en marcha y entrega del sistema de climatización.
-
-Una vez concluidos los trabajos, se deberán realizar las pruebas finales y la puesta en marcha de la instalación, con el objetivo de verificar y asegurar el correcto funcionamiento de todos los equipos y componentes del sistema.
-
-El contratista deberá elaborar y entregar los protocolos de pruebas de la instalación, así como los protocolos de puesta en marcha, los cuales deberán acreditar que los sistemas operan conforme a las especificaciones técnicas del proyecto, recomendaciones del fabricante y normativa vigente.
-
-Dichos protocolos deberán ser presentados a la Inspección Técnica de Obras (ITO) para su revisión y validación, siendo requisito indispensable para la recepción de los trabajos.
-
-
-## 5. CONFIGURACIÓN, PUESTA EN MARCHA Y CAPACITACION EQUIPOS DE AIRE COMPRIMIDO MEDICINAL
-
-
-## 5.1 Configuración, integración y monitoreo de sistema de aire medicinal
-
-Configuración de sistema aire medicinal
-
-El equipo de compresor de aire deberá estar compuesto por seis motores eléctricos, cada uno con una potencia de 15 HP, operando a 400 Volts y 50 Hz, con conexión trifásica. El panel de control deberá venir pre montado y precableado de fábrica, bajo estándar NEMA 12 y con certificación UL (Underwriters Laboratories), asegurando su aptitud para instalaciones hospitalarias críticas. Esta integración debe considerar contactos secos aislados para notificaciones visuales y audibles.
+El equipo de aire medicinal deberá estar compuesto por seis motores eléctricos, cada uno con una potencia de 15 HP, operando a 400 Volts y 50 Hz, con conexión trifásica. El panel de control deberá venir pre montado y precableado de fábrica, bajo estándar NEMA 12 y con certificación UL (Underwriters Laboratories), asegurando su aptitud para instalaciones hospitalarias críticas. Esta integración debe considerar contactos secos aislados para notificaciones visuales y audibles.
 
 El sistema deberá operar bajo una lógica de alternancia “primero encendido, primero apagado”, permitiendo la operación secuencial de los compresores y la activación automática de la unidad de reserva en caso de falla. Todas las fallas o desviaciones operativas, incluyendo sobretemperatura en la descarga, deberán generar alarmas tanto localmente como en el sistema BMS del hospital, a través de señalización visual parpadeante y sonora, además de estar enlazadas al HMI de sitio.
 
@@ -1469,8 +1576,7 @@ La empresa contratista deberá coordinar con la Inspección Técnica de Obras (I
 
 La correcta ejecución de esta integración es condición indispensable para la recepción técnica de la obra y la puesta en marcha definitiva del sistema.
 
-
-## 5.2 Puesta en marcha y pruebas de funcionamiento en coordinación con Control Centralizado (BMS)
+Puesta en marcha, Pruebas de coordinación y funcionamiento con control centralizado (BMS)
 
 La etapa de puesta en marcha y pruebas de funcionamiento de la nueva Central de Aire Comprimido Medicinal deberá realizarse en estrecha coordinación con la Inspección Técnica de Obra (ITO). Las pruebas funcionales deberán incluir todas las verificaciones técnicas exigidas por la NCh 2196:2014, certificaciones de los ensayos indicados en la Tabla 1 para el aire medicinal Grado N de la NCh 2197:1992, realizadas por un laboratorio externo; las recomendaciones del fabricante de los equipos y las disposiciones del Reglamento Interno de Instalaciones de Consumo (RIC) y su Pliego Técnico Complementario, asegurando el cumplimiento normativo y la seguridad en entornos hospitalarios.
 
@@ -1481,12 +1587,179 @@ Durante la puesta en marcha se deberá verificar la correcta visualización de l
 El proceso de pruebas e integración deberá quedar formalmente documentado mediante un acta técnica, firmada por el Contratista, la Inspección Técnica de Obra (ITO) y el área de Control Centralizado (BMS). Esta acta será condición indispensable para la recepción técnica de la instalación.
 
 
-## 5.3 Certificación Calidad de Aire (grado N según NCh 2197:1992)
+## 4.6 Instalaciones eléctricas para climatización del recinto.
+
+Modificación Tablero Eléctrico TDF 2C/Z/B4 en Sala B4-Z-048 – B4-Z-049 (Instalación protección eléctrica Monofásica 25A +  Diferencial 40A).
+
+Para el sistema de climatización, se deberá intervenir el tablero eléctrico existente TDF 2C/Z/B4. Para ello, se deberá considerar la instalación de una barra tetrapolar, la instalación de riel DIN, dos (02) interruptores termomagnéticos tripolares de 25 A, dos (02) interruptores diferenciales tetrapolares de 40 A y un conjunto de borneras para conductores de 4 mm², considerando diez (10) borneras operativas y cinco (05) de reserva.
+
+Asimismo, el contratista deberá asegurar que el tablero continúe operando correctamente una vez ejecutadas las intervenciones, garantizando el normal funcionamiento de todos los sistemas asociados y verificando la correcta operación de los equipos existentes.
+
+Canalización interior desde TDF 2C/Z/B4 a Unidad Interior UI-Z-01 Split ducto 102.400 BTU/hr.
+
+Toda la canalización interior correspondiente a la alimentación eléctrica deberá ejecutarse utilizando la bandeja existente y canalizaciones según corresponda hasta la ubicación del equipo interior Split Ducto.
+
+Canalización exterior desde TDF 2C/Z/B4 a Unidad Exterior UE-Z-01 Split ducto 102.400 BTU/hr.
+
+La canalización exterior hacia la Unidad Exterior (UE-Z-01) en terraza deberá ejecutarse mediante tubería metálica rígida protegida para intemperie, rematando con flexible hermético en la unidad para absorber vibraciones.
+
+Canalización y conexión de termostato de equipo Split ducto.
+
+Asimismo, se deberá considerar la canalización y conexión hacia los termostatos, los cuales se ubicarán a los costados del tablero TDF 2C/Z/B4. Toda la canalización correspondiente a la alimentación eléctrica deberá ejecutarse utilizando la bandeja existente. Por otra parte, la canalización de control asociada a los termostatos deberá ejecutarse mediante una nueva canalización en tubería metálica eléctrica EMT de ½”.
+
+La conexión entre los equipos interiores y el termostato deberá realizarse en la caja metálica de 100 x 50 mm. Las uniones deberán ejecutarse mediante flexible de ¾”, conectores de ¾” y reducción a ½” para su conexión con la canalización EMT.
+
+Conexión Eléctrica a equipo Split Ducto y unidad exterior a tablero TDF 2C/Z/B4.
+
+El arranque eléctrico para Split Ducto piso zócalo, será trifásico de 400V, terminado en cajas de distribución, cableado para uso en ambientes húmedos mediante multiconductor 5 x 4 mm², aislación RZ1-K, o material libre de halógenos.
+
+La alimentación eléctrica de los dos (02) equipos split deberá realizarse desde las borneras de conexión de 4 mm² dispuestas en el tablero, y no directamente desde los interruptores diferenciales, con el fin de asegurar una correcta conexión eléctrica.
+
+
+## 5. INSTALACIONES DE CLIMATIZACIÓN
+
+
+## 5.1 Levantamientos, memorias de cálculos, ingeniería de detalle y planimetrías As-Built.
+
+Levantamientos
+
+El Contratista será responsable de verificar en terreno las cotas, dimensiones y condiciones físicas del recinto de la Central de Aire Medicinal sala B4/Z/048 – B4/Z/049, así como de los pasillos, entrecielos y terraza exterior a intervenir. Para ello, el Contratista deberá solicitar y canalizar todos los requerimientos, permisos de trabajos y acceso a través de la ITO, quién será la única encargada de coordinar formalmente con el área correspondiente del Hospital las visitas e intervenciones necesarias para el replanteo técnico.
+
+El levantamiento comprenderá la inspección detallada del entrecielo para identificar interferencias con otras especialidades como instalaciones eléctricas, corrientes débiles, gases clínicos, elementos estructurales entre otros, la verificación de los vanos y pasadas en tabiques y/o muros, el estado de los ductos existentes a intervenir o retirar, y la definición de emplazamiento definitivo tanto de la Unidad Interior (Split ducto UI-Z-01) como de la Unidad Exterior (Condensadora UE-Z-01), asegurando espacios suficientes para maniobras de montaje, mantenimiento y accesibilidad técnica.
+
+Memorias de Cálculos e ingeniería de detalle.
+
+El contratista será responsable de la elaboración de la Ingeniería de Detalle para todas las instalaciones de climatización incluidas en el proyecto. Esta etapa deberá incluir un desarrollo técnico completo, asegurando que las soluciones propuestas alcancen el nivel de detalle necesario para la correcta ejecución de los trabajos. Los aspectos por considerar en la Ingeniería de Detalle incluirán:
+
+Cálculos térmicos y de capacidad de refrigeración: Verificación y ajuste de a capacidad de los sistemas de climatización para cumplir con las condiciones térmicas requeridas en cada área del proyecto.
+
+Dimensionamiento de ductos y pérdidas de carga: Cálculos aerodinámicos para el trazado de ductos de inyección y ventilación bajo estándares normativos, dimensionamiento de secciones, velocidades de paso de aire, cálculo de caídas de presión en compuertas y selección de difusores.
+
+Dimensionamiento de los equipos de control: Selección y especificaciones técnicas de los equipos de control central y su integración al sistema BMS del edificio.
+
+Especificaciones de montaje: Planificación del montaje, ubicación y soporte de los equipos de climatización, incluyendo el sistema de fijaciones, aislamiento térmico y proyección contra la intemperie.
+
+La Ingeniería de Detalle deberá ser presentada formalmente por el Contratista a la Inspección Técnica de Obras con al menos quince (15) días corridos de anticipación al inicio de la ejecución de las obras, para su revisión y aprobación. El contratista deberá subsanar oportunamente todas las observaciones que formule la ITO antes de proceder con la fabricación de ductos y el montaje de los equipos.
+
+Planimetrías As-Built.
+
+El Contratista deberá elaborar y entregar los planos definitivos “As-Built” de las instalaciones de climatización ejecutadas en el proyecto. Estos planos deberán reflejar con absoluta precisión todas las modificaciones, mejoras y ajustes realizados durante la ejecución de las obras, incluyendo:
+
+Ubicación exacta y cotas de montaje de las unidades de climatización, tanto interiores como exteriores.
+
+Trazado real de la red de ductos que indique las dimensiones de sección, ubicación de uniones flexibles, compuertas de regulación, gateras de registro técnico y rejillas de inyección y retorno.
+
+Ruteo de la cañería frigorífica con sus respectivas aislación térmica y trazado de loa tubería de drenaje de condensados con su punto de descarga.
+
+Detalles constructivos de las estructuras y soportes antisísmicos implementados.
+
+Los planos deberán ser entregados a la ITO en formato digital editable (.dwg) y en formato físico con antelación para permitir la verificación de correspondencia de los diagramas con las instalaciones ejecutadas. La ejecución de estos planos estará a cargo del Supervisor Especialista de Climatización del Contratista, quién tendrá la responsabilidad de ir actualizando los registros de las instalaciones durante el avance de los trabajos. No se aceptará que los planos se elaboren al final de la ejecución con la finalidad de poder verificar la veracidad de la información.
+
+
+## 5.2 Suministro e instalación de equipo Split ducto de 102.400 BTU/hr + Unidad Exterior + cañerías aisladas.
+
+Para la climatización de la sala de aire medicinal (B4-Z-049) se deberá considerar la instalación de un equipo de aire acondicionado tipo Split Ducto, con una capacidad de 102400 BTU/hr, alimentación monofásica y tecnología inverter, o equivalente, similar al modelo GEDA136ECO‑INV-N2, o superior, que cumpla con los requerimientos técnicos del proyecto.
+
+Imagen N°11: Especificaciones Equipo Split Ducto.
+
+Asimismo, se deberán contemplar la provisión e instalación de tuberías de cobre, aislamiento térmico, accesorios, fittings, soportes y demás elementos necesarios para su correcta instalación, conexión y puesta en servicio, todo ello conforme a las especificaciones técnicas y recomendaciones del fabricante, normativa vigente y buenas prácticas de la especialidad.
+
+
+## 5.3 Instalación de cañería de condensado PVC hid. 25mm.
+
+Para la evacuación de las aguas que condensa el equipo Split se debe realizar un desagüe con cañerías de PVC hidráulico de 25mm, este desagüe debe tener un sifón registrable con uniones americanas en cual desaguara directamente a la canaleta de aguas lluvia de la terraza.
+
+
+## 5.4 Instalación de aislación de ductos de inyección (sin chaqueta metálica).
+
+Después de las modificaciones y pruebas de hermeticidad, Se debe suministrar e instalar la aislación térmica a los ductos de inyección considerando que ellos transportarán aire frío o caliente en forma frecuente.
+
+La aislación térmica se ejecutará en lana de vidrio con foil de aluminio en 1 cara:
+
+•   Para ductos interiores: Densidad de 12 Kg/m3 aproximadamente y espesor de 25 mm.
+
+•   Para ductos exteriores: Densidad de 12 Kg/m3 aproximadamente y espesor de 25 mm.
+
+El material aislante será provisto en rollos. Las terminaciones se afianzarán al ducto con cinta adhesiva de aluminio en rollos de 50 mm de ancho.
+
+Toda superficie de ductos con aislación térmica que sufra algún deterioro producto de la manipulación, por motivos propios del trabajo, debe ser reparada con similar material.
+
+En caso de haber modificado otros ductos existentes, los que por necesidades del montaje del proyecto hayan sido intervenidos, estos deberán ser considerados para reponer su aislación térmica.
+
+Los ductos que se desplazan por exterior, expuestos al ambiente no requerirán chaqueta metálica.
+
+
+## 5.5 Suministro e instalación ductos metálicos para aire conexión Split.
+
+Una vez desarmado los ductos existentes, se debe suministrar los ductos de conexión con el Split ducto, para ello los ductos de inyección y ventilación del tipo TDC de 40x30 serán fabricados en plancha de acero galvanizado liso, de sección rectangular, de acuerdo con recomendaciones ASHRAE, según se indican a continuación:
+
+Lado mayor del ducto (mm)
+
+Espesor (mm)
+
+Hasta 300
+
+0.5
+
+301 a 750
+
+0.6
+
+750 a 1200
+
+0.8
+
+Chaqueta metálica protectora de aislación térmica
+
+0.35 mínimo
+
+El sistema preferente de unión que se utilizará en los distintos tramos será tipo TDC (Transverse Duct Connector System), sin embargo, en las secciones de pequeños tamaños se usarán juntas deslizantes tipo balleta. El ducto TDC cuenta con una brida la cual es parte del ducto y le brinda refuerzo contra la deformación permitiendo utilizar calibres de plancha delgados en donde ser permisible.
+
+Contará con un esquinero tipo escuadra para la unión del ducto con otro ducto Para cerrar las uniones de diferentes tramos y piezas, se debe proveer una empaquetadura de Butyl en todo el perímetro de ella. Esto sellará la unión y evitará fugas o infiltraciones de aire no deseadas.
+
+Sólo si es aplicable, en todas las bifurcaciones y confluencias de flujos de aire se deberán instalar templadores divisores de caudal de aire con el propósito de acceder a las acciones de balance que se requieran en el período de puesta en marcha de los sistemas.
+
+Cuando el sistema proyectado considere acometidas de ramales contra un ducto principal, por medio de unión triple o "zapato chino", la misma debe incluir damper manuales para el balance de los flujos. Estos damper contarán con una barra de accionamiento externo.
+
+Imagen N°12: Detalle soporte ductos para Split Ducto
+
+
+## 5.6 Soportes de equipos y amortiguadores.
+
+Para la instalación del equipo Split Ducto se debe fabricar una estructura metálica para sopórtalo, esta debe ser fabricas con bastidor de ángulo laminado 40x3mm con arriostramiento del mismo material, esta debe ser anclada a la losa con barra hilada de ½” con taco de anclaje y anchor fix-1 y las diagonales con pernos de anclaje ½”x3”.
+
+Imagen N°13: Detalle soporte para Split Ducto
+
+Para la condensadora exterior, se debe fabricar bases de estructura metálica en perfil 40x40x3mm la cual se fijará a la losa por medio de flanges con pernos de anclaje de 1/2"x 3” de largo embebidos en adhesivo para anclaje tipo anchorfix-1 de Sika o equivalente técnico.
+
+Para la instalación de los equipos se deben instalar también soporte de goma antivibración, esto con el fin que los equipos no trasmitan las vibraciones de funcionamiento al edificio y reducir la carga sísmica del edificio hacia el equipo.
+
+Imagen N°13: Detalle soporte para Unidad Exterior
+
+
+## 5.7 Uniones flexibles conexión ducto a equipo Split ducto.
+
+En todos los puntos que de cambio de material en encuentros de estructuras dilatadas o que puedan generar distintos tipos de movimientos frente a un sismo, se deben instalar uniones flexibles que permitan reducir estos movimientos y reducir el estrés sísmico en el equipo Split Ducto.
+
+
+## 5.8 Puesta en marcha y entrega del sistema de climatización.
+
+Una vez concluidos los trabajos, se deberán realizar las pruebas finales y la puesta en marcha de la instalación, con el objetivo de verificar y asegurar el correcto funcionamiento de todos los equipos y componentes del sistema.
+
+El contratista deberá elaborar y entregar los protocolos de pruebas de la instalación, así como los protocolos de puesta en marcha, los cuales deberán acreditar que los sistemas operan conforme a las especificaciones técnicas del proyecto, recomendaciones del fabricante y normativa vigente.
+
+Dichos protocolos deberán ser presentados a la Inspección Técnica de Obras (ITO) para su revisión y validación, siendo requisito indispensable para la recepción de los trabajos.
+
+
+## 6. CONFIGURACIÓN, PUESTA EN MARCHA Y CAPACITACION EQUIPOS DE AIRE COMPRIMIDO MEDICINAL
+
+
+## 6.1 Certificación Calidad de Aire (grado N según NCh 2197:1992)
 
 Finalizada la instalación del equipo y previo a su conexión a la red de suministro del hospital, el Contratista realizará y entregará a la ITO un Certificado Analítico de Puesta en Marcha. Dicho documento deberá validar cuantitativamente todos los componentes listados en la Tabla 1 de la NCh2197:1992 para Grado N. La omisión de este reporte analítico externo será causal suficiente para no dar por recibido el equipo, entendiéndose que no cumple con el requerimiento esencial de grado medicinal solicitado.
 
 
-## 5.4 Capacitación a personal del Hospital Dr. Gustavo Fricke (Teórica y práctica)
+## 6.2 Capacitación a personal del Hospital Dr. Gustavo Fricke (Teórica y práctica)
 
 El Contratista debe considerar la capacitación del personal del Hospital a cargo de la operación, mantención operacional y de control centralizado de la central de aire comprimido medicinal, la capacitación debe ser realizada en 03 jornadas (01 para cada turno), cada jornada deberá contar con un mínimo de 08 horas distribuidas de la siguiente manera:
 
@@ -1535,10 +1808,10 @@ Capacitación práctica, verificando la ubicación y accionamiento de los equipo
 El Contratista debe entregar a la I.T.O. los siguientes antecedentes, para todo el sistema: programas de mantenimiento preventivo, manuales de instrucción, certificaciones de calibración de sus componentes, certificado de calidad de grado medicinal del producto generado y diagramas eléctricos.
 
 
-## 6. ORDEN Y ASEO
+## 7. ORDEN Y ASEO
 
 
-## 6.1 Retiro de escombros y limpieza
+## 7.1 Retiro de escombros y limpieza
 
 El Contratista luego de haber finalizado los trabajos, deberá dejar limpio, aseado y en perfectas condiciones el sector de trabajo, para el posterior uso normal por parte del Personal del Hospital.
 
